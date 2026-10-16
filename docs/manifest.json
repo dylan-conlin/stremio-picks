@@ -1,0 +1,22 @@
+{
+  "id": "com.dylanconlin.picks",
+  "version": "0.1.0",
+  "name": "Dylan's Picks",
+  "description": "A weekly row of movies picked for Dylan, each with a reason.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "dylan-picks",
+      "name": "Picks for Dylan"
+    }
+  ]
+}
