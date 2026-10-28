@@ -90,6 +90,10 @@ def imessage(text):
 
 def main():
     dry = "--dry-run" in sys.argv
+    test_flag = PHONE_FILE.parent / "send-test"
+    if test_flag.exists():  # touch this file, then kickstart the launchd job, to test texting
+        test_flag.unlink()
+        imessage("🎬 Test from the scheduled wanted-list check. Texts from it will reach you.")
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     announced = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     stamp = datetime.datetime.now().isoformat(timespec="minutes")
