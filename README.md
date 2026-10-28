@@ -11,3 +11,15 @@ Torrentio still adds Real-Debrid (RD+) streams.
 - Install URL: https://dylan-conlin.github.io/stremio-picks/manifest.json
 
 Taste notes and watch history live in `~/dev/life/personal/movies/`. Trakt user: dylan_conlin_ok.
+
+## Wanted-list checker
+
+`watch_wanted.py` runs twice a day (9:00 and 18:00) from launchd
+(`com.dylanconlin.wanted-check.plist`, installed in `~/Library/LaunchAgents`). It reads the
+"Waiting for a proper release" section of `~/dev/life/personal/movies/watchlist.org`. When a movie
+there has a WEB-DL, WEBRip or BluRay on Torrentio (never CAM, TS, screener or AUDIONEW), it adds the
+movie to the top of the picks row, pushes, and sends an iMessage.
+
+- Phone number: `~/.config/stremio-picks/phone` (kept out of this public repo).
+- Already-announced movies and the log: `~/.local/state/stremio-picks/`.
+- Check by hand: `python3 watch_wanted.py --dry-run`.
