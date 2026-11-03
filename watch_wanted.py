@@ -68,6 +68,7 @@ def add_pick(imdb_id, title, year, release):
         "name": title,
         "year": year,
         "why": f"From your wanted list: now out in proper quality ({release}).",
+        "source": "wanted",
     })
     path.write_text(json.dumps(data, indent=2) + "\n")
     subprocess.run([sys.executable, str(ROOT / "build.py")], check=True)
