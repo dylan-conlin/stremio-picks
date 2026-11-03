@@ -1,13 +1,14 @@
 {
   "id": "com.dylanconlin.picks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "name": "Dylan's Picks",
-  "description": "A weekly row of movies picked for Dylan, each with a reason.",
+  "description": "Movies and series picked for Dylan from his Stremio history, refreshed daily.",
   "resources": [
     "catalog"
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "tt"
@@ -15,6 +16,11 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "dylan-picks",
+      "name": "Picks for Dylan"
+    },
+    {
+      "type": "series",
       "id": "dylan-picks",
       "name": "Picks for Dylan"
     }
