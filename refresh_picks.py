@@ -156,7 +156,7 @@ finishes, not by prestige.
 His taste notes:
 {taste}
 
-His Stremio history, newest first. "finished" and many episodes = liked. "stopped early" = not
+His Stremio history, newest first. "finished" and many episodes usually mean liked, but his taste notes override that (he finishes some films he finds meh). "stopped early" = not
 for him; avoid things like it. Never pick anything in this list.
 {hist_lines}
 
