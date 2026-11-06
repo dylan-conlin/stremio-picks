@@ -3,18 +3,6 @@
   "note": "Built by refresh_picks.py from Stremio history and taste.org.",
   "picks": [
     {
-      "id": "tt35298123",
-      "name": "Teenage Sex and Death at Camp Miasma",
-      "year": "2026",
-      "why": "A director remaking a slasher becomes obsessed with the original film's final girl. It's a strange, sexy and unsettling new horror film about identity and fixation."
-    },
-    {
-      "id": "tt29714073",
-      "name": "Bad Apples",
-      "year": "2026",
-      "why": "A worn-out schoolteacher's choices get darker and darker after one of her students is hurt. It's a pitch-black comic thriller about an ordinary person going off the rails."
-    },
-    {
       "id": "tt27369017",
       "name": "Hope",
       "year": "2026",
@@ -31,12 +19,6 @@
       "name": "Primetime",
       "year": "2026",
       "why": "A dramatization of a 2006 TV host's push to make the predator-sting show a hit. It's a darkly fascinating new take on media, ego and true crime."
-    },
-    {
-      "id": "tt14173636",
-      "name": "The Invite",
-      "year": "2026",
-      "why": "A couple whose marriage is falling apart invite their mysterious upstairs neighbors to dinner, and the evening spirals. It's a tense, funny relationship drama where the awkwardness keeps building."
     },
     {
       "id": "tt39143902",
@@ -61,6 +43,24 @@
       "name": "Bodies Bodies Bodies",
       "year": "2022",
       "why": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
+    },
+    {
+      "id": "tt33071426",
+      "name": "The Drama",
+      "year": "2026",
+      "why": "A happily engaged couple's wedding week goes off the rails after one revelation. It's an uncomfortable comedy about how far ordinary people will go to pretend everything is fine."
+    },
+    {
+      "id": "tt5649108",
+      "name": "Thoroughbreds",
+      "year": "2018",
+      "why": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
+    },
+    {
+      "id": "tt13403046",
+      "name": "Fresh",
+      "year": "2022",
+      "why": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
     }
   ],
   "series": [

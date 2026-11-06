@@ -1,22 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt35298123",
-      "type": "movie",
-      "name": "Teenage Sex and Death at Camp Miasma",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt35298123/img",
-      "description": "A director remaking a slasher becomes obsessed with the original film's final girl. It's a strange, sexy and unsettling new horror film about identity and fixation."
-    },
-    {
-      "id": "tt29714073",
-      "type": "movie",
-      "name": "Bad Apples",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt29714073/img",
-      "description": "A worn-out schoolteacher's choices get darker and darker after one of her students is hurt. It's a pitch-black comic thriller about an ordinary person going off the rails."
-    },
-    {
       "id": "tt27369017",
       "type": "movie",
       "name": "Hope",
@@ -39,14 +23,6 @@
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt34206385/img",
       "description": "A dramatization of a 2006 TV host's push to make the predator-sting show a hit. It's a darkly fascinating new take on media, ego and true crime."
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt14173636/img",
-      "description": "A couple whose marriage is falling apart invite their mysterious upstairs neighbors to dinner, and the evening spirals. It's a tense, funny relationship drama where the awkwardness keeps building."
     },
     {
       "id": "tt39143902",
@@ -79,6 +55,30 @@
       "releaseInfo": "2022",
       "poster": "https://images.metahub.space/poster/medium/tt8110652/img",
       "description": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "The Drama",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt33071426/img",
+      "description": "A happily engaged couple's wedding week goes off the rails after one revelation. It's an uncomfortable comedy about how far ordinary people will go to pretend everything is fine."
+    },
+    {
+      "id": "tt5649108",
+      "type": "movie",
+      "name": "Thoroughbreds",
+      "releaseInfo": "2018",
+      "poster": "https://images.metahub.space/poster/medium/tt5649108/img",
+      "description": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
+    },
+    {
+      "id": "tt13403046",
+      "type": "movie",
+      "name": "Fresh",
+      "releaseInfo": "2022",
+      "poster": "https://images.metahub.space/poster/medium/tt13403046/img",
+      "description": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
     }
   ]
 }
