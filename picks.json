@@ -3,6 +3,13 @@
   "note": "Built by refresh_picks.py from Stremio history and taste.org.",
   "picks": [
     {
+      "id": "tt27041231",
+      "name": "Musk",
+      "year": 2026,
+      "why": "From your wanted list: now out in proper quality (Musk (2026) [1080p] [WEBRip] [5.1]).",
+      "source": "wanted"
+    },
+    {
       "id": "tt27369017",
       "name": "Hope",
       "year": "2026",
@@ -30,7 +37,7 @@
       "id": "tt10638522",
       "name": "Talk to Me",
       "year": "2023",
-      "why": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
+      "why": "Teens turn a s\u00e9ance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
     },
     {
       "id": "tt8110652",
@@ -67,25 +74,25 @@
     {
       "id": "tt27543562",
       "name": "The Shards",
-      "year": "2026–",
+      "year": "2026\u2013",
       "why": "Privileged Los Angeles high schoolers in 1981 come of age while a serial killer stalks the city. It's a teen story that is also an erotic thriller and builds a slow, creeping menace."
     },
     {
       "id": "tt33332385",
       "name": "Widow's Bay",
-      "year": "2026–",
+      "year": "2026\u2013",
       "why": "A skeptical mayor tries to run a cursed New England island full of superstitious residents. It's a well-reviewed new horror series that is both eerie and funny."
     },
     {
       "id": "tt21952924",
       "name": "Phony",
-      "year": "2026–",
+      "year": "2026\u2013",
       "why": "After a car accident, a young man becomes convinced his mother has been replaced by an impostor. It's a paranoid, unsettling mystery built around a fraught mother-son relationship."
     },
     {
       "id": "tt23148340",
       "name": "Crystal Lake",
-      "year": "2026–",
+      "year": "2026\u2013",
       "why": "A prequel to the famous camp slasher, set in the doomed town where counselors come to die. It's a new horror series that tells its story at a slow burn."
     },
     {
