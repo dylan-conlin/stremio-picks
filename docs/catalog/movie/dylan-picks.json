@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt32261958/img",
-      "description": "A ghostwriter moves into a bestselling author's house and finds a manuscript full of disturbing confessions. It's a twisty domestic thriller about obsession and a toxic marriage, the kind of glossy, nasty suspense he tends to finish in one sitting."
-    },
-    {
       "id": "tt35298123",
       "type": "movie",
       "name": "Teenage Sex and Death at Camp Miasma",
@@ -17,28 +9,12 @@
       "description": "A director remaking a slasher becomes obsessed with the original film's final girl. It's a strange, sexy and unsettling new horror film about identity and fixation."
     },
     {
-      "id": "tt35519455",
-      "type": "movie",
-      "name": "It Ends",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt35519455/img",
-      "description": "Friends on a late-night food run get stuck on a highway that never ends while something waits outside the car. It's eerie liminal-space horror that rests on dread and mystery more than jump scares."
-    },
-    {
       "id": "tt29714073",
       "type": "movie",
       "name": "Bad Apples",
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt29714073/img",
       "description": "A worn-out schoolteacher's choices get darker and darker after one of her students is hurt. It's a pitch-black comic thriller about an ordinary person going off the rails."
-    },
-    {
-      "id": "tt32792934",
-      "type": "movie",
-      "name": "The Plague",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt32792934/img",
-      "description": "An awkward tween goes through the cruel pecking order of a summer water polo camp, and his anxiety turns into psychological horror. It's an uneasy portrait of an outsider being bullied."
     },
     {
       "id": "tt27369017",
@@ -79,6 +55,30 @@
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt39143902/img",
       "description": "Two teenage boys are hunted by an entity that takes the form of the person each one desires most. It's a new horror film about longing and shame among teenagers."
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Resident Evil",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
+      "description": "Zach Cregger's new take on the survival-horror franchise: a hapless courier is trapped in a hospital outbreak. Expect sharp, fast-moving horror with an ordinary guy in way over his head."
+    },
+    {
+      "id": "tt10638522",
+      "type": "movie",
+      "name": "Talk to Me",
+      "releaseInfo": "2023",
+      "poster": "https://images.metahub.space/poster/medium/tt10638522/img",
+      "description": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
+    },
+    {
+      "id": "tt8110652",
+      "type": "movie",
+      "name": "Bodies Bodies Bodies",
+      "releaseInfo": "2022",
+      "poster": "https://images.metahub.space/poster/medium/tt8110652/img",
+      "description": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
     }
   ]
 }
