@@ -17,14 +17,6 @@
       "description": "A girl and her friends try to escape a children's TV show that has turned sinister. It's a new horror film with a creepy, playful premise and well-reviewed scares."
     },
     {
-      "id": "tt34206385",
-      "type": "movie",
-      "name": "Primetime",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt34206385/img",
-      "description": "A dramatization of a 2006 TV host's push to make the predator-sting show a hit. It's a darkly fascinating new take on media, ego and true crime."
-    },
-    {
       "id": "tt39143902",
       "type": "movie",
       "name": "Leviticus",
@@ -79,6 +71,14 @@
       "releaseInfo": "2022",
       "poster": "https://images.metahub.space/poster/medium/tt13403046/img",
       "description": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
+    },
+    {
+      "id": "tt36589928",
+      "type": "movie",
+      "name": "Our Hero, Balthazar",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt36589928/img",
+      "description": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
     }
   ]
 }

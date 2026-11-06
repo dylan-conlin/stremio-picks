@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05",
+  "generated": "2026-11-06",
   "note": "Built by refresh_picks.py from Stremio history and taste.org.",
   "picks": [
     {
@@ -13,12 +13,6 @@
       "name": "Buddy",
       "year": "2026",
       "why": "A girl and her friends try to escape a children's TV show that has turned sinister. It's a new horror film with a creepy, playful premise and well-reviewed scares."
-    },
-    {
-      "id": "tt34206385",
-      "name": "Primetime",
-      "year": "2026",
-      "why": "A dramatization of a 2006 TV host's push to make the predator-sting show a hit. It's a darkly fascinating new take on media, ego and true crime."
     },
     {
       "id": "tt39143902",
@@ -61,6 +55,12 @@
       "name": "Fresh",
       "year": "2022",
       "why": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
+    },
+    {
+      "id": "tt36589928",
+      "name": "Our Hero, Balthazar",
+      "year": "2026",
+      "why": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
     }
   ],
   "series": [
