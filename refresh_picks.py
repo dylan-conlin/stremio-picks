@@ -222,6 +222,7 @@ def main():
     rd = keychain("real-debrid", "api-token") or sys.exit("No Real-Debrid token in Keychain.")
     hist = history(auth)
     played = {h["id"] for h in hist}
+    played |= set(re.findall(r"\btt\d{6,}\b", TASTE.read_text()))  # seen outside Stremio
 
     def stays(p):
         if p["id"] in played:
