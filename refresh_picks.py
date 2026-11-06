@@ -25,6 +25,8 @@ import pathlib
 import re
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -46,13 +48,34 @@ def log(*a):
     print(datetime.datetime.now().isoformat(timespec="minutes"), *a, flush=True)
 
 
-def get_json(url, data=None, timeout=30):
+def get_json(url, data=None, timeout=30, tries=4):
     headers = dict(UA)
     if data is not None:
         data = json.dumps(data).encode()
         headers["Content-Type"] = "application/json"
-    with urllib.request.urlopen(urllib.request.Request(url, data, headers), timeout=timeout) as r:
-        return json.load(r)
+    for i in range(tries):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, data, headers), timeout=timeout) as r:
+                return json.load(r)
+        except (urllib.error.URLError, ConnectionError, TimeoutError) as e:
+            if isinstance(e, urllib.error.HTTPError) and e.code < 500 and e.code != 429:
+                raise
+            if i == tries - 1:
+                raise
+            time.sleep(5 * 2 ** i)
+
+
+def wait_for_network(minutes=20):
+    """launchd runs a missed 5:00 job right at wake, before Wi-Fi is back. Wait for it."""
+    for _ in range(minutes * 4):
+        try:
+            urllib.request.urlopen("https://api.strem.io", timeout=10)
+            return
+        except urllib.error.HTTPError:
+            return  # got an answer, so the network is up
+        except Exception:
+            time.sleep(15)
+    sys.exit("No network after waiting; giving up until tomorrow.")
 
 
 def keychain(service, account):
@@ -186,6 +209,7 @@ Reply with JSON only, no prose and no code fences:
 
 def main():
     dry = "--dry-run" in sys.argv
+    wait_for_network()
     STATE.mkdir(parents=True, exist_ok=True)
     shown = json.loads(SHOWN.read_text()) if SHOWN.exists() else {}
     picks_path = ROOT / "picks.json"
