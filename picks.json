@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "note": "Built by refresh_picks.py from Stremio history and taste.org.",
   "picks": [
     {
@@ -37,7 +37,7 @@
       "id": "tt10638522",
       "name": "Talk to Me",
       "year": "2023",
-      "why": "Teens turn a s\u00e9ance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
+      "why": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
     },
     {
       "id": "tt8110652",
@@ -46,53 +46,41 @@
       "why": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
     },
     {
-      "id": "tt33071426",
-      "name": "The Drama",
-      "year": "2026",
-      "why": "A happily engaged couple's wedding week goes off the rails after one revelation. It's an uncomfortable comedy about how far ordinary people will go to pretend everything is fine."
-    },
-    {
       "id": "tt5649108",
       "name": "Thoroughbreds",
       "year": "2018",
       "why": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
     },
     {
-      "id": "tt13403046",
-      "name": "Fresh",
-      "year": "2022",
-      "why": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
-    },
-    {
       "id": "tt36589928",
       "name": "Our Hero, Balthazar",
       "year": "2026",
       "why": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
+    },
+    {
+      "id": "tt34379307",
+      "name": "Is God Is",
+      "year": "2026",
+      "why": "Two sisters set out for revenge and dig up an ugly family history along the way. It's a tense, stylized thriller driven by its characters and what they're willing to do."
     }
   ],
   "series": [
     {
-      "id": "tt27543562",
-      "name": "The Shards",
-      "year": "2026\u2013",
-      "why": "Privileged Los Angeles high schoolers in 1981 come of age while a serial killer stalks the city. It's a teen story that is also an erotic thriller and builds a slow, creeping menace."
-    },
-    {
       "id": "tt33332385",
       "name": "Widow's Bay",
-      "year": "2026\u2013",
+      "year": "2026–",
       "why": "A skeptical mayor tries to run a cursed New England island full of superstitious residents. It's a well-reviewed new horror series that is both eerie and funny."
     },
     {
       "id": "tt21952924",
       "name": "Phony",
-      "year": "2026\u2013",
+      "year": "2026–",
       "why": "After a car accident, a young man becomes convinced his mother has been replaced by an impostor. It's a paranoid, unsettling mystery built around a fraught mother-son relationship."
     },
     {
       "id": "tt23148340",
       "name": "Crystal Lake",
-      "year": "2026\u2013",
+      "year": "2026–",
       "why": "A prequel to the famous camp slasher, set in the doomed town where counselors come to die. It's a new horror series that tells its story at a slow burn."
     },
     {
@@ -100,6 +88,12 @@
       "name": "All Her Fault",
       "year": "2025",
       "why": "A mother's son vanishes after a playdate, and her search turns up secrets in her own circle. It's an addictive domestic thriller that is easy to binge."
+    },
+    {
+      "id": "tt31974367",
+      "name": "The Beast in Me",
+      "year": "2025",
+      "why": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
     }
   ]
 }

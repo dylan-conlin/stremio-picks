@@ -57,14 +57,6 @@
       "description": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
     },
     {
-      "id": "tt33071426",
-      "type": "movie",
-      "name": "The Drama",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt33071426/img",
-      "description": "A happily engaged couple's wedding week goes off the rails after one revelation. It's an uncomfortable comedy about how far ordinary people will go to pretend everything is fine."
-    },
-    {
       "id": "tt5649108",
       "type": "movie",
       "name": "Thoroughbreds",
@@ -73,20 +65,20 @@
       "description": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
     },
     {
-      "id": "tt13403046",
-      "type": "movie",
-      "name": "Fresh",
-      "releaseInfo": "2022",
-      "poster": "https://images.metahub.space/poster/medium/tt13403046/img",
-      "description": "A dating-app meet-cute that turns into a nightmare halfway through. A darkly funny, unsettling thriller about the horror hiding behind a charming date."
-    },
-    {
       "id": "tt36589928",
       "type": "movie",
       "name": "Our Hero, Balthazar",
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt36589928/img",
       "description": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
+    },
+    {
+      "id": "tt34379307",
+      "type": "movie",
+      "name": "Is God Is",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt34379307/img",
+      "description": "Two sisters set out for revenge and dig up an ugly family history along the way. It's a tense, stylized thriller driven by its characters and what they're willing to do."
     }
   ]
 }

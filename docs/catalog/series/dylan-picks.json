@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt27543562",
-      "type": "series",
-      "name": "The Shards",
-      "releaseInfo": "2026–",
-      "poster": "https://images.metahub.space/poster/medium/tt27543562/img",
-      "description": "Privileged Los Angeles high schoolers in 1981 come of age while a serial killer stalks the city. It's a teen story that is also an erotic thriller and builds a slow, creeping menace."
-    },
-    {
       "id": "tt33332385",
       "type": "series",
       "name": "Widow's Bay",
@@ -39,6 +31,14 @@
       "releaseInfo": "2025",
       "poster": "https://images.metahub.space/poster/medium/tt31314751/img",
       "description": "A mother's son vanishes after a playdate, and her search turns up secrets in her own circle. It's an addictive domestic thriller that is easy to binge."
+    },
+    {
+      "id": "tt31974367",
+      "type": "series",
+      "name": "The Beast in Me",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt31974367/img",
+      "description": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
     }
   ]
 }
