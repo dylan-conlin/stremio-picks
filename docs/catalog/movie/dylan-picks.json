@@ -1,38 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt27041231",
-      "type": "movie",
-      "name": "Musk",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt27041231/img",
-      "description": "From your wanted list: now out in proper quality (Musk (2026) [1080p] [WEBRip] [5.1])."
-    },
-    {
-      "id": "tt27369017",
-      "type": "movie",
-      "name": "Hope",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt27369017/img",
-      "description": "Something unknown turns up outside a remote harbor town and the residents have to fight to survive. It's a big new creature thriller that mixes action with real horror."
-    },
-    {
-      "id": "tt37281055",
-      "type": "movie",
-      "name": "Buddy",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt37281055/img",
-      "description": "A girl and her friends try to escape a children's TV show that has turned sinister. It's a new horror film with a creepy, playful premise and well-reviewed scares."
-    },
-    {
-      "id": "tt39143902",
-      "type": "movie",
-      "name": "Leviticus",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt39143902/img",
-      "description": "Two teenage boys are hunted by an entity that takes the form of the person each one desires most. It's a new horror film about longing and shame among teenagers."
-    },
-    {
       "id": "tt35538033",
       "type": "movie",
       "name": "Resident Evil",
@@ -47,14 +15,6 @@
       "releaseInfo": "2023",
       "poster": "https://images.metahub.space/poster/medium/tt10638522/img",
       "description": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
-    },
-    {
-      "id": "tt8110652",
-      "type": "movie",
-      "name": "Bodies Bodies Bodies",
-      "releaseInfo": "2022",
-      "poster": "https://images.metahub.space/poster/medium/tt8110652/img",
-      "description": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
     },
     {
       "id": "tt5649108",
@@ -73,12 +33,52 @@
       "description": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
     },
     {
-      "id": "tt34379307",
+      "id": "tt7798634",
       "type": "movie",
-      "name": "Is God Is",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt34379307/img",
-      "description": "Two sisters set out for revenge and dig up an ugly family history along the way. It's a tense, stylized thriller driven by its characters and what they're willing to do."
+      "name": "Ready or Not",
+      "releaseInfo": "2019",
+      "poster": "https://images.metahub.space/poster/medium/tt7798634/img",
+      "description": "A new bride's wedding night turns into a deadly game of hide-and-seek with her rich in-laws. It's a pitch-black comedy thriller about a polite family that goes along with something monstrous, and it is funny and tense all the way through."
+    },
+    {
+      "id": "tt7784604",
+      "type": "movie",
+      "name": "Hereditary",
+      "releaseInfo": "2018",
+      "poster": "https://images.metahub.space/poster/medium/tt7784604/img",
+      "description": "A grieving family slowly comes apart in a horror film that grows out of guilt, resentment and a domineering mother. The dread builds through the characters, not through atmosphere alone."
+    },
+    {
+      "id": "tt9764362",
+      "type": "movie",
+      "name": "The Menu",
+      "releaseInfo": "2022",
+      "poster": "https://images.metahub.space/poster/medium/tt9764362/img",
+      "description": "A couple joins a dinner at an exclusive island restaurant where the courses turn sinister. A sharp dark comedy thriller in which the staff and guests quietly go along with something terrible."
+    },
+    {
+      "id": "tt32916440",
+      "type": "movie",
+      "name": "Marty Supreme",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt32916440/img",
+      "description": "A hustler chasing table-tennis glory careens from one bad decision to the next. The anxiety never lets up, it's often very funny, and there's always something at stake."
+    },
+    {
+      "id": "tt17351924",
+      "type": "movie",
+      "name": "Saltburn",
+      "releaseInfo": "2023",
+      "poster": "https://images.metahub.space/poster/medium/tt17351924/img",
+      "description": "A scholarship outsider is pulled into a rich classmate's family estate, and the summer turns into obsession. A wicked social thriller about status and pecking orders that keeps getting darker."
+    },
+    {
+      "id": "tt9620292",
+      "type": "movie",
+      "name": "Promising Young Woman",
+      "releaseInfo": "2020",
+      "poster": "https://images.metahub.space/poster/medium/tt9620292/img",
+      "description": "A woman pretends to be drunk to catch out men who think they're the good guys. A dark revenge comedy-thriller about uneasy dates and the people who look the other way."
     }
   ]
 }

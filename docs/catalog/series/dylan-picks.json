@@ -1,44 +1,44 @@
 {
   "metas": [
     {
-      "id": "tt33332385",
-      "type": "series",
-      "name": "Widow's Bay",
-      "releaseInfo": "2026–",
-      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
-      "description": "A skeptical mayor tries to run a cursed New England island full of superstitious residents. It's a well-reviewed new horror series that is both eerie and funny."
-    },
-    {
-      "id": "tt21952924",
-      "type": "series",
-      "name": "Phony",
-      "releaseInfo": "2026–",
-      "poster": "https://images.metahub.space/poster/medium/tt21952924/img",
-      "description": "After a car accident, a young man becomes convinced his mother has been replaced by an impostor. It's a paranoid, unsettling mystery built around a fraught mother-son relationship."
-    },
-    {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "releaseInfo": "2026–",
-      "poster": "https://images.metahub.space/poster/medium/tt23148340/img",
-      "description": "A prequel to the famous camp slasher, set in the doomed town where counselors come to die. It's a new horror series that tells its story at a slow burn."
-    },
-    {
-      "id": "tt31314751",
-      "type": "series",
-      "name": "All Her Fault",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt31314751/img",
-      "description": "A mother's son vanishes after a playdate, and her search turns up secrets in her own circle. It's an addictive domestic thriller that is easy to binge."
-    },
-    {
       "id": "tt31974367",
       "type": "series",
       "name": "The Beast in Me",
       "releaseInfo": "2025",
       "poster": "https://images.metahub.space/poster/medium/tt31974367/img",
       "description": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "releaseInfo": "2021–",
+      "poster": "https://images.metahub.space/poster/medium/tt11041332/img",
+      "description": "A high school girls' soccer team stranded in the wilderness turns on itself, and the survivors are still hiding what happened decades later. Teen cruelty, social pecking orders and psychological horror with real stakes."
+    },
+    {
+      "id": "tt37218592",
+      "type": "series",
+      "name": "The Price of Confession",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt37218592/img",
+      "description": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
+    },
+    {
+      "id": "tt14403178",
+      "type": "series",
+      "name": "Beef",
+      "releaseInfo": "2023–",
+      "poster": "https://images.metahub.space/poster/medium/tt14403178/img",
+      "description": "A road-rage incident between two strangers grows into an all-consuming feud. Pitch-black comedy that keeps escalating, with ordinary people doing monstrous things."
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "releaseInfo": "2025–",
+      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
+      "description": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
     }
   ]
 }

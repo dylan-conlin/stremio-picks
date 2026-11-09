@@ -1,32 +1,7 @@
 {
-  "generated": "2026-11-07",
+  "generated": "2026-11-09",
   "note": "Built by refresh_picks.py from Stremio history and taste.org.",
   "picks": [
-    {
-      "id": "tt27041231",
-      "name": "Musk",
-      "year": 2026,
-      "why": "From your wanted list: now out in proper quality (Musk (2026) [1080p] [WEBRip] [5.1]).",
-      "source": "wanted"
-    },
-    {
-      "id": "tt27369017",
-      "name": "Hope",
-      "year": "2026",
-      "why": "Something unknown turns up outside a remote harbor town and the residents have to fight to survive. It's a big new creature thriller that mixes action with real horror."
-    },
-    {
-      "id": "tt37281055",
-      "name": "Buddy",
-      "year": "2026",
-      "why": "A girl and her friends try to escape a children's TV show that has turned sinister. It's a new horror film with a creepy, playful premise and well-reviewed scares."
-    },
-    {
-      "id": "tt39143902",
-      "name": "Leviticus",
-      "year": "2026",
-      "why": "Two teenage boys are hunted by an entity that takes the form of the person each one desires most. It's a new horror film about longing and shame among teenagers."
-    },
     {
       "id": "tt35538033",
       "name": "Resident Evil",
@@ -38,12 +13,6 @@
       "name": "Talk to Me",
       "year": "2023",
       "why": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
-    },
-    {
-      "id": "tt8110652",
-      "name": "Bodies Bodies Bodies",
-      "year": "2022",
-      "why": "A group of Gen Z friends play a murder game during a hurricane party and it turns real. A wickedly funny whodunit about cruelty and paranoia inside a friend group."
     },
     {
       "id": "tt5649108",
@@ -58,42 +27,72 @@
       "why": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
     },
     {
-      "id": "tt34379307",
-      "name": "Is God Is",
-      "year": "2026",
-      "why": "Two sisters set out for revenge and dig up an ugly family history along the way. It's a tense, stylized thriller driven by its characters and what they're willing to do."
+      "id": "tt7798634",
+      "name": "Ready or Not",
+      "year": "2019",
+      "why": "A new bride's wedding night turns into a deadly game of hide-and-seek with her rich in-laws. It's a pitch-black comedy thriller about a polite family that goes along with something monstrous, and it is funny and tense all the way through."
+    },
+    {
+      "id": "tt7784604",
+      "name": "Hereditary",
+      "year": "2018",
+      "why": "A grieving family slowly comes apart in a horror film that grows out of guilt, resentment and a domineering mother. The dread builds through the characters, not through atmosphere alone."
+    },
+    {
+      "id": "tt9764362",
+      "name": "The Menu",
+      "year": "2022",
+      "why": "A couple joins a dinner at an exclusive island restaurant where the courses turn sinister. A sharp dark comedy thriller in which the staff and guests quietly go along with something terrible."
+    },
+    {
+      "id": "tt32916440",
+      "name": "Marty Supreme",
+      "year": "2025",
+      "why": "A hustler chasing table-tennis glory careens from one bad decision to the next. The anxiety never lets up, it's often very funny, and there's always something at stake."
+    },
+    {
+      "id": "tt17351924",
+      "name": "Saltburn",
+      "year": "2023",
+      "why": "A scholarship outsider is pulled into a rich classmate's family estate, and the summer turns into obsession. A wicked social thriller about status and pecking orders that keeps getting darker."
+    },
+    {
+      "id": "tt9620292",
+      "name": "Promising Young Woman",
+      "year": "2020",
+      "why": "A woman pretends to be drunk to catch out men who think they're the good guys. A dark revenge comedy-thriller about uneasy dates and the people who look the other way."
     }
   ],
   "series": [
-    {
-      "id": "tt33332385",
-      "name": "Widow's Bay",
-      "year": "2026–",
-      "why": "A skeptical mayor tries to run a cursed New England island full of superstitious residents. It's a well-reviewed new horror series that is both eerie and funny."
-    },
-    {
-      "id": "tt21952924",
-      "name": "Phony",
-      "year": "2026–",
-      "why": "After a car accident, a young man becomes convinced his mother has been replaced by an impostor. It's a paranoid, unsettling mystery built around a fraught mother-son relationship."
-    },
-    {
-      "id": "tt23148340",
-      "name": "Crystal Lake",
-      "year": "2026–",
-      "why": "A prequel to the famous camp slasher, set in the doomed town where counselors come to die. It's a new horror series that tells its story at a slow burn."
-    },
-    {
-      "id": "tt31314751",
-      "name": "All Her Fault",
-      "year": "2025",
-      "why": "A mother's son vanishes after a playdate, and her search turns up secrets in her own circle. It's an addictive domestic thriller that is easy to binge."
-    },
     {
       "id": "tt31974367",
       "name": "The Beast in Me",
       "year": "2025",
       "why": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
+    },
+    {
+      "id": "tt11041332",
+      "name": "Yellowjackets",
+      "year": "2021–",
+      "why": "A high school girls' soccer team stranded in the wilderness turns on itself, and the survivors are still hiding what happened decades later. Teen cruelty, social pecking orders and psychological horror with real stakes."
+    },
+    {
+      "id": "tt37218592",
+      "name": "The Price of Confession",
+      "year": "2025",
+      "why": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
+    },
+    {
+      "id": "tt14403178",
+      "name": "Beef",
+      "year": "2023–",
+      "why": "A road-rage incident between two strangers grows into an all-consuming feud. Pitch-black comedy that keeps escalating, with ordinary people doing monstrous things."
+    },
+    {
+      "id": "tt33043892",
+      "name": "Dexter: Resurrection",
+      "year": "2025–",
+      "why": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
     }
   ]
 }
