@@ -39,6 +39,30 @@
       "releaseInfo": "2025",
       "poster": "https://images.metahub.space/poster/medium/tt37890201/img",
       "description": "A woman hides behind a mask to escape her past and climbs to power, destroying everyone in her way. A twisted, stylish story of a female antihero's revenge."
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "releaseInfo": "2014–2024",
+      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+      "description": "An anthology of Midwestern crime stories in which ordinary people slide into monstrous acts. Deadpan, violent and tightly plotted each season."
+    },
+    {
+      "id": "tt13649112",
+      "type": "series",
+      "name": "Baby Reindeer",
+      "releaseInfo": "2024",
+      "poster": "https://images.metahub.space/poster/medium/tt13649112/img",
+      "description": "A struggling comedian's kindness to a stranger turns into a years-long stalking nightmare. Told unflinchingly and impossible to stop watching."
+    },
+    {
+      "id": "tt5290382",
+      "type": "series",
+      "name": "Mindhunter",
+      "releaseInfo": "2017–2019",
+      "poster": "https://images.metahub.space/poster/medium/tt5290382/img",
+      "description": "David Fincher's series about the FBI agents who invented criminal profiling by interviewing serial killers. Calm, chilling conversations with real monsters."
     }
   ]
 }

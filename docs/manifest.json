@@ -1,6 +1,6 @@
 {
   "id": "com.dylanconlin.picks",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "name": "Dylan's Picks",
   "description": "Movies and series picked for Dylan from his Stremio history, refreshed daily.",
   "resources": [
@@ -18,6 +18,26 @@
       "type": "movie",
       "id": "dylan-picks",
       "name": "Picks for Dylan"
+    },
+    {
+      "type": "movie",
+      "id": "dylan-new",
+      "name": "New for Dylan"
+    },
+    {
+      "type": "movie",
+      "id": "dylan-dread",
+      "name": "Controlled Dread"
+    },
+    {
+      "type": "movie",
+      "id": "dylan-deadpan",
+      "name": "Dark & Deadpan"
+    },
+    {
+      "type": "movie",
+      "id": "dylan-deepcuts",
+      "name": "Deep Cuts"
     },
     {
       "type": "series",
