@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -117,6 +117,12 @@
       "name": "Unabomber",
       "year": "2026",
       "why": "A crime drama tracing a Harvard student's path from psychological experiments to a deadly bombing campaign, alongside the FBI hunt that caught him."
+    },
+    {
+      "id": "tt27706593",
+      "name": "The Rivals of Amziah King",
+      "year": "2026",
+      "why": "A beekeeper who anchors his small community reunites with his former foster daughter while threats close in on his honey business. It's a slow-burn rural crime thriller with menace under a folksy surface."
     }
   ],
   "dread": [
