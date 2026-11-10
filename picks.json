@@ -39,28 +39,28 @@
       "why": "A hustler chasing table-tennis glory careens from one bad decision to the next. The anxiety never lets up, it's often very funny, and there's always something at stake."
     },
     {
-      "id": "tt2267998",
-      "name": "Gone Girl",
-      "year": "2014",
-      "why": "A wife vanishes, and the story turns into a vicious, twisty portrait of a marriage told partly from her side. It is sharply made, cruel and darkly funny, with a famously audacious payoff."
-    },
-    {
-      "id": "tt6751668",
-      "name": "Parasite",
-      "year": "2019",
-      "why": "A poor family worms its way into a rich household, and the class satire curdles into shocking violence. It is funny, tense and twisted, and the ending lands hard."
-    },
-    {
-      "id": "tt8772262",
-      "name": "Midsommar",
-      "year": "2019",
-      "why": "A grieving young woman joins a Swedish midsummer festival where a smiling community calmly takes part in monstrous rituals. Daylight folk horror with real dread, pitch-black humor and a cathartic ending from her point of view."
-    },
-    {
       "id": "tt34890576",
       "name": "Clayface",
       "year": "2026",
       "why": "A rising Hollywood star loses his face and his identity to a scientific experiment and turns into a monster bent on revenge. Body horror and a revenge story in one, with an unsparing look at vanity and fame."
+    },
+    {
+      "id": "tt1392214",
+      "name": "Prisoners",
+      "year": "2013",
+      "why": "Denis Villeneuve's tense abduction thriller about a father who takes the law into his own hands. It is dark and tightly controlled, and its ending lands hard."
+    },
+    {
+      "id": "tt4178092",
+      "name": "The Gift",
+      "year": "2015",
+      "why": "An old schoolmate keeps turning up in a couple's polished suburban life, and a past cruelty slowly comes to light. It's a slow-burn revenge thriller that ends with a vicious, satisfying sting."
+    },
+    {
+      "id": "tt2872718",
+      "name": "Nightcrawler",
+      "year": "2014",
+      "why": "A pitch-dark satire of a sociopath who climbs the ladder of LA crime-scene news. It is sharply made, darkly funny and steadily monstrous."
     }
   ],
   "series": [
@@ -83,16 +83,16 @@
       "why": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
     },
     {
-      "id": "tt14403178",
-      "name": "Beef",
-      "year": "2023–",
-      "why": "A road-rage incident between two strangers grows into an all-consuming feud. Pitch-black comedy that keeps escalating, with ordinary people doing monstrous things."
-    },
-    {
       "id": "tt33043892",
       "name": "Dexter: Resurrection",
       "year": "2025–",
       "why": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
+    },
+    {
+      "id": "tt2649356",
+      "name": "Sharp Objects",
+      "year": "2018",
+      "why": "A journalist returns to her hometown to cover murders of young girls and runs up against her domineering mother. It's dark, controlled Southern gothic with a devastating final reveal."
     }
   ]
 }

@@ -25,20 +25,20 @@
       "description": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
     },
     {
-      "id": "tt14403178",
-      "type": "series",
-      "name": "Beef",
-      "releaseInfo": "2023–",
-      "poster": "https://images.metahub.space/poster/medium/tt14403178/img",
-      "description": "A road-rage incident between two strangers grows into an all-consuming feud. Pitch-black comedy that keeps escalating, with ordinary people doing monstrous things."
-    },
-    {
       "id": "tt33043892",
       "type": "series",
       "name": "Dexter: Resurrection",
       "releaseInfo": "2025–",
       "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
       "description": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
+    },
+    {
+      "id": "tt2649356",
+      "type": "series",
+      "name": "Sharp Objects",
+      "releaseInfo": "2018",
+      "poster": "https://images.metahub.space/poster/medium/tt2649356/img",
+      "description": "A journalist returns to her hometown to cover murders of young girls and runs up against her domineering mother. It's dark, controlled Southern gothic with a devastating final reveal."
     }
   ]
 }
