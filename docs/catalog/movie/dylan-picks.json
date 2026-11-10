@@ -65,20 +65,20 @@
       "description": "A teenage girl turns the tables on a man she meets online, and it becomes a tense two-hander of revenge and control. A lesser-known, sharply made shocker from a woman's point of view, with a merciless last act."
     },
     {
-      "id": "tt31049299",
-      "type": "movie",
-      "name": "Animals",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt31049299/img",
-      "description": "A mayoral candidate and his wife go to extreme lengths to pay their son's ransom, and secrets they never meant to reveal come out. A dark crime thriller about ordinary people doing monstrous things under pressure."
-    },
-    {
       "id": "tt4016934",
       "type": "movie",
       "name": "The Handmaiden",
       "releaseInfo": "2017",
       "poster": "https://images.metahub.space/poster/medium/tt4016934/img",
       "description": "Park Chan-wook's lush, erotic con-game thriller set in 1930s Korea, where a maid and an heiress play a long game of double-crosses against the men scheming over them. Twisted, beautifully controlled, and built toward a deeply satisfying revenge payoff."
+    },
+    {
+      "id": "tt0096163",
+      "type": "movie",
+      "name": "The Vanishing",
+      "releaseInfo": "1988",
+      "poster": "https://images.metahub.space/poster/medium/tt0096163/img",
+      "description": "A Dutch thriller about a man searching for his missing girlfriend and the calm, ordinary family man who took her. The film tightens slowly to one of the most chilling endings ever filmed."
     }
   ]
 }
