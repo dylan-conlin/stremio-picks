@@ -41,22 +41,6 @@
       "description": "A new bride's wedding night turns into a deadly game of hide-and-seek with her rich in-laws. It's a pitch-black comedy thriller about a polite family that goes along with something monstrous, and it is funny and tense all the way through."
     },
     {
-      "id": "tt7784604",
-      "type": "movie",
-      "name": "Hereditary",
-      "releaseInfo": "2018",
-      "poster": "https://images.metahub.space/poster/medium/tt7784604/img",
-      "description": "A grieving family slowly comes apart in a horror film that grows out of guilt, resentment and a domineering mother. The dread builds through the characters, not through atmosphere alone."
-    },
-    {
-      "id": "tt9764362",
-      "type": "movie",
-      "name": "The Menu",
-      "releaseInfo": "2022",
-      "poster": "https://images.metahub.space/poster/medium/tt9764362/img",
-      "description": "A couple joins a dinner at an exclusive island restaurant where the courses turn sinister. A sharp dark comedy thriller in which the staff and guests quietly go along with something terrible."
-    },
-    {
       "id": "tt32916440",
       "type": "movie",
       "name": "Marty Supreme",
@@ -65,20 +49,36 @@
       "description": "A hustler chasing table-tennis glory careens from one bad decision to the next. The anxiety never lets up, it's often very funny, and there's always something at stake."
     },
     {
-      "id": "tt17351924",
+      "id": "tt2267998",
       "type": "movie",
-      "name": "Saltburn",
-      "releaseInfo": "2023",
-      "poster": "https://images.metahub.space/poster/medium/tt17351924/img",
-      "description": "A scholarship outsider is pulled into a rich classmate's family estate, and the summer turns into obsession. A wicked social thriller about status and pecking orders that keeps getting darker."
+      "name": "Gone Girl",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt2267998/img",
+      "description": "A wife vanishes, and the story turns into a vicious, twisty portrait of a marriage told partly from her side. It is sharply made, cruel and darkly funny, with a famously audacious payoff."
     },
     {
-      "id": "tt9620292",
+      "id": "tt6751668",
       "type": "movie",
-      "name": "Promising Young Woman",
-      "releaseInfo": "2020",
-      "poster": "https://images.metahub.space/poster/medium/tt9620292/img",
-      "description": "A woman pretends to be drunk to catch out men who think they're the good guys. A dark revenge comedy-thriller about uneasy dates and the people who look the other way."
+      "name": "Parasite",
+      "releaseInfo": "2019",
+      "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+      "description": "A poor family worms its way into a rich household, and the class satire curdles into shocking violence. It is funny, tense and twisted, and the ending lands hard."
+    },
+    {
+      "id": "tt8772262",
+      "type": "movie",
+      "name": "Midsommar",
+      "releaseInfo": "2019",
+      "poster": "https://images.metahub.space/poster/medium/tt8772262/img",
+      "description": "A grieving young woman joins a Swedish midsummer festival where a smiling community calmly takes part in monstrous rituals. Daylight folk horror with real dread, pitch-black humor and a cathartic ending from her point of view."
+    },
+    {
+      "id": "tt34890576",
+      "type": "movie",
+      "name": "Clayface",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt34890576/img",
+      "description": "A rising Hollywood star loses his face and his identity to a scientific experiment and turns into a monster bent on revenge. Body horror and a revenge story in one, with an unsparing look at vanity and fame."
     }
   ]
 }
