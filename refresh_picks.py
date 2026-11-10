@@ -31,6 +31,7 @@ import urllib.parse
 import urllib.request
 
 from rows import ROWS
+from watch_wanted import BAD, wanted
 
 ROOT = pathlib.Path(__file__).parent
 STATE = pathlib.Path.home() / ".local/state/stremio-picks"
@@ -167,7 +168,9 @@ def playable(type_, imdb_id, rd_token):
     except Exception as e:
         log("torrentio failed", imdb_id, e)
         return False
-    return any("RD+" in s.get("name", "") for s in streams)
+    # Torrentio's quality filter misses some theater copies (AUDIONEW, HC, TS in the name)
+    return any("RD+" in s.get("name", "") and not BAD.search(f"{s.get('name', '')} {s.get('title', '')}")
+               for s in streams)
 
 
 def ask_claude(taste, hist, keep, pool, avoid_names, needs):
@@ -235,18 +238,21 @@ def main():
     hist = history(auth)
     played = {h["id"] for h in hist}
     played |= set(re.findall(r"\btt\d{6,}\b", TASTE.read_text()))  # seen outside Stremio
+    waiting = {w[0] for w in wanted()}  # watch_wanted.py adds these once a proper release is out
 
     def stays(p):
         if p["id"] in played:
             return False
         if p.get("source") == "wanted":
             return True
+        if p["id"] in waiting:
+            return False
         first = datetime.date.fromisoformat(shown.get(p["id"], {}).get("first", str(TODAY)))
         return (TODAY - first).days < STALE_DAYS
 
     keep = {r["key"]: [p for p in data.get(r["key"], []) if stays(p)] for r in ROWS}
     in_rows = {p["id"] for ps in keep.values() for p in ps}
-    excluded = played | set(shown)
+    excluded = played | set(shown) | waiting
     pool = [c for c in cinemeta_pool() if c["id"] not in excluded]
     needs = {r["key"]: r["size"] - len(keep[r["key"]]) for r in ROWS}
     log(f"history {len(hist)}, pool {len(pool)}, need", needs)

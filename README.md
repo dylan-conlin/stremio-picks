@@ -3,11 +3,14 @@
 A static Stremio add-on that shows a "Picks for Dylan" row. Each pick uses its IMDb ID, so
 Torrentio still adds Real-Debrid (RD+) streams.
 
-- `picks.json`: the current picks (`picks` = movies, `series` = series), each with a reason.
+- `rows.py`: the rows (Picks for Dylan, New for Dylan, Controlled Dread, Dark & Deadpan, Deep Cuts,
+  series), each with a size and a brief for the picker. Edit it to add, drop or reorder rows.
+- `picks.json`: the current picks, one key per row, each with a reason.
 - `refresh_picks.py`: rebuilds the rows daily at 5:00 (`com.dylanconlin.picks-refresh.plist`).
   It reads Stremio watch history (finished = liked, stopped under 15% = not for Dylan), drops
   picks that were played or have shown for 7 days, has `claude -p` choose from Cinemeta's popular,
-  new and featured titles plus `taste.org`, keeps only titles with a cached 1080p Real-Debrid stream,
+  new and featured titles plus `taste.org`, keeps only titles with a cached 1080p Real-Debrid stream that isn't a theater copy,
+  skips titles on the wanted list (the checker below adds those),
   and pushes. Wanted-list picks stay until played. Log: `~/.local/state/stremio-picks/refresh.log`.
   Try it: `python3 refresh_picks.py --dry-run`. The Stremio auth key comes from the Keychain
   (service `stremio`, account `auth-key`), falling back to the Stremio Mac app's cache.
