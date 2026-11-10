@@ -7,7 +7,7 @@
 4. Asks Claude (headless `claude -p`) to choose from the pool, plus a few older films it knows,
    guided by taste.org and the history.
 5. Keeps only titles whose IMDb ID checks out on Cinemeta and that have a cached 1080p
-   Real-Debrid stream (Torrentio), so every pick plays instantly. Fills to 10 movies, 5 series.
+   Real-Debrid stream (Torrentio), so every pick plays instantly. Fills each row in rows.py.
 6. Writes picks.json, rebuilds docs/, commits and pushes.
 
 Wanted-list picks (source "wanted", added by watch_wanted.py) stay at the top until played.
@@ -30,12 +30,13 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+from rows import ROWS
+
 ROOT = pathlib.Path(__file__).parent
 STATE = pathlib.Path.home() / ".local/state/stremio-picks"
 SHOWN = STATE / "shown.json"
 TASTE = pathlib.Path.home() / "dev/life/personal/movies/taste.org"
 APP_CACHE = pathlib.Path.home() / "Library/Containers/com.stremio.pal/Data/Library/Caches/com.stremio.pal"
-N_MOVIES, N_SERIES = 10, 5
 STALE_DAYS = 7
 TORRENTIO_OPTS = ("qualityfilter=brremux,hdrall,dolbyvision,dolbyvisionwithhdr,"
                   "threed,4k,720p,480p,other,scr,cam,unknown|sizefilter=10GB|"
@@ -169,42 +170,53 @@ def playable(type_, imdb_id, rd_token):
     return any("RD+" in s.get("name", "") for s in streams)
 
 
-def ask_claude(taste, hist, keep, pool, avoid_names):
+def ask_claude(taste, hist, keep, pool, avoid_names, needs):
     hist_lines = "\n".join(f"- {h['name']} ({h['type']}): {label(h)}, last {h['last']}"
                            + (", saved to library" if h["in_library"] else "") for h in hist[:60])
-    prompt = f"""You choose films and series for Dylan's "Picks for Dylan" rows in Stremio.
-Today is {TODAY}. Pick what he will actually want to watch tonight, judged by what he really
-finishes, not by prestige.
+    rows_text = "\n".join(
+        f'- "{r["key"]}" ({r["type"]}, "{r["name"]}"): {r["brief"]} Give {needs[r["key"]] * 2 + 4}, ranked.'
+        for r in ROWS if needs[r["key"]] > 0)
+    keys = ", ".join(f'"{r["key"]}": [...]' for r in ROWS if needs[r["key"]] > 0)
+    prompt = f"""You choose films and series for Dylan's rows in Stremio.
+Today is {TODAY}. Pick what he will actually want to watch, judged by what he rated and
+finished, not by prestige.
 
-His taste notes:
+His taste notes (the summary at the top is the best guide):
 {taste}
 
-His Stremio history, newest first. "finished" and many episodes usually mean liked, but his taste notes override that (he finishes some films he finds meh). "stopped early" = not
-for him; avoid things like it. Never pick anything in this list.
+His Stremio history, newest first. "finished" and many episodes usually mean liked, but his
+taste notes override that (he finishes some films he finds meh). "stopped early" = not for him;
+avoid things like it. Never pick anything in this list or any title named in his taste notes.
 {hist_lines}
 
-Already in the row, keep as is: {', '.join(p['name'] for p in keep) or 'none'}
+Already in the rows, keep as is and don't repeat: {', '.join(p['name'] for p in keep) or 'none'}
 Shown before and ignored or watched, never pick again: {', '.join(sorted(avoid_names)) or 'none'}
 
-Candidate pool (current popular, new and featured titles on Cinemeta):
+Candidate pool (current popular, new and featured titles on Cinemeta, with real IMDb IDs):
 {json.dumps(pool, ensure_ascii=False)}
 
-Return 20 movies and 10 series, ranked best first. Mostly from the pool. You may add up to 5
-older movies and 2 older series that are not in the pool, if you are sure of their exact IMDb ID.
-Each "why" is one or two sentences: what the film is and why it fits his taste. This row is
-public, so don't name titles from his history or mention his viewing; describe the fit instead
-(e.g. "slow-burn horror centered on a teen outsider"). Describe the film, not him: never "he tends to" or "you usually".
+Rows to fill:
+{rows_text}
 
-Reply with JSON only, no prose and no code fences:
-{{"movies": [{{"id": "tt...", "name": "...", "year": 2026, "why": "..."}}],
-  "series": [{{"id": "tt...", "name": "...", "year": 2026, "why": "..."}}]}}"""
+Titles outside the pool are fine (and needed for Deep Cuts), but only if you are sure of the
+exact IMDb ID. Never put the same title in two rows. Each "why" is one or two sentences: what
+the film is and why it fits. The rows are public, so don't name titles from his history and
+don't mention his viewing. Describe the film, not him: never "he tends to" or "you usually".
+
+Reply with JSON only, no prose and no code fences, using these keys:
+{{{keys}}}
+where each item is {{"id": "tt...", "name": "...", "year": 2026, "why": "..."}}"""
     r = subprocess.run(["claude", "-p", "--output-format", "json", "--model", "opus"],
-                       input=prompt, capture_output=True, text=True, timeout=900,
+                       input=prompt, capture_output=True, text=True, timeout=1200,
                        cwd=str(STATE))
     if r.returncode != 0:
         sys.exit(f"claude failed: {r.stderr[-500:]}")
     text = json.loads(r.stdout)["result"]
     return json.loads(text[text.index("{"):text.rindex("}") + 1])
+
+
+def in_rows_list(keep):
+    return [p for ps in keep.values() for p in ps]
 
 
 def main():
@@ -214,7 +226,7 @@ def main():
     shown = json.loads(SHOWN.read_text()) if SHOWN.exists() else {}
     picks_path = ROOT / "picks.json"
     data = json.loads(picks_path.read_text())
-    old = data.get("picks", []) + data.get("series", [])
+    old = [p for r in ROWS for p in data.get(r["key"], [])]
     for p in old:  # picks from before this script count as shown on their generated date
         shown.setdefault(p["id"], {"name": p["name"], "first": data.get("generated", str(TODAY))})
 
@@ -232,53 +244,53 @@ def main():
         first = datetime.date.fromisoformat(shown.get(p["id"], {}).get("first", str(TODAY)))
         return (TODAY - first).days < STALE_DAYS
 
-    keep_m = [p for p in data.get("picks", []) if stays(p)]
-    keep_s = [p for p in data.get("series", []) if stays(p)]
+    keep = {r["key"]: [p for p in data.get(r["key"], []) if stays(p)] for r in ROWS}
+    in_rows = {p["id"] for ps in keep.values() for p in ps}
     excluded = played | set(shown)
     pool = [c for c in cinemeta_pool() if c["id"] not in excluded]
-    log(f"history {len(hist)}, keeping {len(keep_m)} movies {len(keep_s)} series, pool {len(pool)}")
+    needs = {r["key"]: r["size"] - len(keep[r["key"]]) for r in ROWS}
+    log(f"history {len(hist)}, pool {len(pool)}, need", needs)
 
-    need_m, need_s = N_MOVIES - len(keep_m), N_SERIES - len(keep_s)
-    if need_m > 0 or need_s > 0:
-        avoid = {v["name"] for k, v in shown.items() if k not in {p["id"] for p in keep_m + keep_s}}
-        got = ask_claude(TASTE.read_text(), hist, keep_m + keep_s, pool, avoid)
-        for kind, keep, need in (("movie", keep_m, need_m), ("series", keep_s, need_s)):
-            ids = {p["id"] for p in keep}
-            for c in got["movies" if kind == "movie" else "series"]:
+    if any(n > 0 for n in needs.values()):
+        avoid = {v["name"] for k, v in shown.items() if k not in in_rows}
+        kept = [p for ps in keep.values() for p in ps]
+        got = ask_claude(TASTE.read_text(), hist, kept, pool, avoid, needs)
+        for r in ROWS:
+            need, row = needs[r["key"]], keep[r["key"]]
+            for c in got.get(r["key"], []):
                 if need <= 0:
                     break
                 cid = c.get("id", "")
-                if not re.fullmatch(r"tt\d+", cid) or cid in excluded or cid in ids:
+                if not re.fullmatch(r"tt\d+", cid) or cid in excluded or cid in in_rows:
                     continue
-                m = meta(kind, cid)
+                m = meta(r["type"], cid)
                 if not m or m.get("name", "").lower()[:12] != c["name"].lower()[:12]:
                     log(f"skip {c['name']}: IMDb ID {cid} doesn't match ({m and m.get('name')})")
                     continue
-                if not playable(kind, cid, rd):
+                if not playable(r["type"], cid, rd):
                     log(f"skip {c['name']}: no cached 1080p")
                     continue
                 year = str(m.get("releaseInfo") or c.get("year", ""))
-                keep.append({"id": cid, "name": m["name"], "year": year, "why": c["why"]})
-                ids.add(cid)
+                row.append({"id": cid, "name": m["name"], "year": year, "why": c["why"]})
+                in_rows.add(cid)
                 need -= 1
-            log(f"{kind}: {len(keep)} in row")
+            log(f"{r['name']} ({r['type']}): {len(row)}/{r['size']}")
 
-    for p in keep_m + keep_s:
+    for p in in_rows_list(keep):
         shown.setdefault(p["id"], {"name": p["name"], "first": str(TODAY)})
     new = {"generated": str(TODAY),
-           "note": "Built by refresh_picks.py from Stremio history and taste.org.",
-           "picks": keep_m, "series": keep_s}
-    for p in keep_m:
-        log("movie ", p["name"], p["year"], "|", p["why"])
-    for p in keep_s:
-        log("series", p["name"], p["year"], "|", p["why"])
+           "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py."}
+    for r in ROWS:
+        new[r["key"]] = keep[r["key"]]
+        for p in keep[r["key"]]:
+            log(f"{r['key']:8}", p["name"], p["year"], "|", p["why"])
     if dry:
         return
     picks_path.write_text(json.dumps(new, indent=2, ensure_ascii=False) + "\n")
     SHOWN.write_text(json.dumps(shown, indent=2))
     subprocess.run([sys.executable, str(ROOT / "build.py")], check=True)
     git = ["git", "-C", str(ROOT)]
-    subprocess.run(git + ["add", "picks.json", "docs"], check=True)
+    subprocess.run(git + ["add", "picks.json", "docs", "rows.py"], check=True)
     if subprocess.run(git + ["diff", "--cached", "--quiet"]).returncode:
         subprocess.run(git + ["commit", "-q", "-m", f"Refresh picks {TODAY}"], check=True)
         subprocess.run(git + ["push", "-q"], check=True)
