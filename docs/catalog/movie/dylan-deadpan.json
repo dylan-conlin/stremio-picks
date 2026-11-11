@@ -25,14 +25,6 @@
       "description": "Todd Solondz's interlocking portrait of suburban New Jersey, where ordinary people hide monstrous secrets. It is unbearably deadpan."
     },
     {
-      "id": "tt7339248",
-      "type": "movie",
-      "name": "The Art of Self-Defense",
-      "releaseInfo": "2019",
-      "poster": "https://images.metahub.space/poster/medium/tt7339248/img",
-      "description": "A timid accountant joins a karate dojo that turns out to be a cult of toxic masculinity. Bone-dry comedy that escalates into real violence."
-    },
-    {
       "id": "tt2121382",
       "type": "movie",
       "name": "Force Majeure",
@@ -79,6 +71,14 @@
       "releaseInfo": "2013",
       "poster": "https://images.metahub.space/poster/medium/tt2023690/img",
       "description": "A mild British couple on a caravan holiday start killing anyone who annoys them. Ben Wheatley plays the murders as small domestic matters."
+    },
+    {
+      "id": "tt3011894",
+      "type": "movie",
+      "name": "Wild Tales",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt3011894/img",
+      "description": "An Argentine anthology of six stories in which ordinary people pushed by small slights escalate to wrecked cars, poison and a wedding that turns into a massacre. It is pitch-black and very funny, and every story ends on a sharp punchline."
     }
   ]
 }
