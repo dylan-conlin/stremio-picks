@@ -1,38 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt35538033",
-      "type": "movie",
-      "name": "Resident Evil",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt35538033/img",
-      "description": "Zach Cregger's new take on the survival-horror franchise: a hapless courier is trapped in a hospital outbreak. Expect sharp, fast-moving horror with an ordinary guy in way over his head."
-    },
-    {
-      "id": "tt10638522",
-      "type": "movie",
-      "name": "Talk to Me",
-      "releaseInfo": "2023",
-      "poster": "https://images.metahub.space/poster/medium/tt10638522/img",
-      "description": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
-    },
-    {
-      "id": "tt5649108",
-      "type": "movie",
-      "name": "Thoroughbreds",
-      "releaseInfo": "2018",
-      "poster": "https://images.metahub.space/poster/medium/tt5649108/img",
-      "description": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
-    },
-    {
-      "id": "tt36589928",
-      "type": "movie",
-      "name": "Our Hero, Balthazar",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt36589928/img",
-      "description": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
-    },
-    {
       "id": "tt7798634",
       "type": "movie",
       "name": "Ready or Not",
@@ -57,14 +25,6 @@
       "description": "A rising Hollywood star loses his face and his identity to a scientific experiment and turns into a monster bent on revenge. Body horror and a revenge story in one, with an unsparing look at vanity and fame."
     },
     {
-      "id": "tt0424136",
-      "type": "movie",
-      "name": "Hard Candy",
-      "releaseInfo": "2006",
-      "poster": "https://images.metahub.space/poster/medium/tt0424136/img",
-      "description": "A teenage girl turns the tables on a man she meets online, and it becomes a tense two-hander of revenge and control. A lesser-known, sharply made shocker from a woman's point of view, with a merciless last act."
-    },
-    {
       "id": "tt4016934",
       "type": "movie",
       "name": "The Handmaiden",
@@ -79,6 +39,46 @@
       "releaseInfo": "1988",
       "poster": "https://images.metahub.space/poster/medium/tt0096163/img",
       "description": "A Dutch thriller about a man searching for his missing girlfriend and the calm, ordinary family man who took her. The film tightens slowly to one of the most chilling endings ever filmed."
+    },
+    {
+      "id": "tt0416320",
+      "type": "movie",
+      "name": "Match Point",
+      "releaseInfo": "2006",
+      "poster": "https://images.metahub.space/poster/medium/tt0416320/img",
+      "description": "An ambitious tennis instructor marries into London money, and he is ready to do something monstrous to keep it. Woody Allen's darkest film plays it straight, and its ending is morally sickening."
+    },
+    {
+      "id": "tt1588170",
+      "type": "movie",
+      "name": "I Saw the Devil",
+      "releaseInfo": "2010",
+      "poster": "https://images.metahub.space/poster/medium/tt1588170/img",
+      "description": "A secret agent hunts the serial killer who murdered his fiancée, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
+    },
+    {
+      "id": "tt1614989",
+      "type": "movie",
+      "name": "Headhunters",
+      "releaseInfo": "2011",
+      "poster": "https://images.metahub.space/poster/medium/tt1614989/img",
+      "description": "A smug corporate recruiter who steals art on the side robs the wrong man, and the job becomes a hunt for his life. A tight, nasty Norwegian thriller that keeps getting worse for him, with a payoff that clicks into place."
+    },
+    {
+      "id": "tt2359024",
+      "type": "movie",
+      "name": "Blue Ruin",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt2359024/img",
+      "description": "A drifter carries out a clumsy act of revenge and then has to deal with the family that comes after him. It's quiet and grim, and the violence is awkward and frightening, with every step making things worse."
+    },
+    {
+      "id": "tt4062536",
+      "type": "movie",
+      "name": "Green Room",
+      "releaseInfo": "2016",
+      "poster": "https://images.metahub.space/poster/medium/tt4062536/img",
+      "description": "A punk band sees a murder at a neo-Nazi bar and is trapped in the green room while the owners plan how to get rid of them. Jeremy Saulnier's siege thriller is relentless, with sudden violence and real stakes."
     }
   ]
 }

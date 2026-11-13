@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt1704573",
-      "type": "movie",
-      "name": "Bernie",
-      "releaseInfo": "2012",
-      "poster": "https://images.metahub.space/poster/medium/tt1704573/img",
-      "description": "Based on a true story: a beloved small-town Texas mortician kills a hated widow, and the town would rather he got away with it. Richard Linklater plays it completely straight."
-    },
-    {
       "id": "tt3464902",
       "type": "movie",
       "name": "The Lobster",
@@ -79,6 +71,14 @@
       "releaseInfo": "2014",
       "poster": "https://images.metahub.space/poster/medium/tt3011894/img",
       "description": "An Argentine anthology of six stories in which ordinary people pushed by small slights escalate to wrecked cars, poison and a wedding that turns into a massacre. It is pitch-black and very funny, and every story ends on a sharp punchline."
+    },
+    {
+      "id": "tt4995790",
+      "type": "movie",
+      "name": "The Square",
+      "releaseInfo": "2017",
+      "poster": "https://images.metahub.space/poster/medium/tt4995790/img",
+      "description": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben Östlund's satire stays bone-dry while respectable people calmly watch things get ugly."
     }
   ]
 }

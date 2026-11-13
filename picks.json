@@ -1,31 +1,7 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-13",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
-    {
-      "id": "tt35538033",
-      "name": "Resident Evil",
-      "year": "2026",
-      "why": "Zach Cregger's new take on the survival-horror franchise: a hapless courier is trapped in a hospital outbreak. Expect sharp, fast-moving horror with an ordinary guy in way over his head."
-    },
-    {
-      "id": "tt10638522",
-      "name": "Talk to Me",
-      "year": "2023",
-      "why": "Teens turn a séance hand into a party game and get hooked on possession. It's peer pressure and grief made literal, with nasty stakes that keep climbing."
-    },
-    {
-      "id": "tt5649108",
-      "name": "Thoroughbreds",
-      "year": "2018",
-      "why": "Two estranged rich-kid friends in Connecticut casually talk themselves into murdering a stepfather. A deadpan, chilly dark comedy about people calmly going along with something monstrous."
-    },
-    {
-      "id": "tt36589928",
-      "name": "Our Hero, Balthazar",
-      "year": "2026",
-      "why": "A rich New York teen trying to impress his activist crush follows an online contact to Texas, thinking he can stop a mass act of violence. It's a dark comedy thriller about internet-age self-delusion that keeps getting more uncomfortable."
-    },
     {
       "id": "tt7798634",
       "name": "Ready or Not",
@@ -45,12 +21,6 @@
       "why": "A rising Hollywood star loses his face and his identity to a scientific experiment and turns into a monster bent on revenge. Body horror and a revenge story in one, with an unsparing look at vanity and fame."
     },
     {
-      "id": "tt0424136",
-      "name": "Hard Candy",
-      "year": "2006",
-      "why": "A teenage girl turns the tables on a man she meets online, and it becomes a tense two-hander of revenge and control. A lesser-known, sharply made shocker from a woman's point of view, with a merciless last act."
-    },
-    {
       "id": "tt4016934",
       "name": "The Handmaiden",
       "year": "2017",
@@ -61,6 +31,36 @@
       "name": "The Vanishing",
       "year": "1988",
       "why": "A Dutch thriller about a man searching for his missing girlfriend and the calm, ordinary family man who took her. The film tightens slowly to one of the most chilling endings ever filmed."
+    },
+    {
+      "id": "tt0416320",
+      "name": "Match Point",
+      "year": "2006",
+      "why": "An ambitious tennis instructor marries into London money, and he is ready to do something monstrous to keep it. Woody Allen's darkest film plays it straight, and its ending is morally sickening."
+    },
+    {
+      "id": "tt1588170",
+      "name": "I Saw the Devil",
+      "year": "2010",
+      "why": "A secret agent hunts the serial killer who murdered his fiancée, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
+    },
+    {
+      "id": "tt1614989",
+      "name": "Headhunters",
+      "year": "2011",
+      "why": "A smug corporate recruiter who steals art on the side robs the wrong man, and the job becomes a hunt for his life. A tight, nasty Norwegian thriller that keeps getting worse for him, with a payoff that clicks into place."
+    },
+    {
+      "id": "tt2359024",
+      "name": "Blue Ruin",
+      "year": "2014",
+      "why": "A drifter carries out a clumsy act of revenge and then has to deal with the family that comes after him. It's quiet and grim, and the violence is awkward and frightening, with every step making things worse."
+    },
+    {
+      "id": "tt4062536",
+      "name": "Green Room",
+      "year": "2016",
+      "why": "A punk band sees a murder at a neo-Nazi bar and is trapped in the green room while the owners plan how to get rid of them. Jeremy Saulnier's siege thriller is relentless, with sudden violence and real stakes."
     }
   ],
   "new": [
@@ -181,19 +181,13 @@
       "why": "Lee Chang-dong's slow-burn mystery about a delivery boy, the woman he likes and the smiling rich man who may have made her disappear. The menace keeps growing until a sudden release at the end."
     },
     {
-      "id": "tt0808279",
-      "name": "Funny Games",
-      "year": "2008",
-      "why": "Michael Haneke's shot-for-shot English remake of his own film: two polite young men take a family hostage at their lake house. It is clinical and merciless, and the director is fully in charge."
+      "id": "tt4291600",
+      "name": "Lady Macbeth",
+      "year": "2017",
+      "why": "A young woman sold into a loveless marriage in rural 19th-century England starts an affair and then kills to protect it. It's cold, spare and quietly vicious, and it ends on a chilling note."
     }
   ],
   "deadpan": [
-    {
-      "id": "tt1704573",
-      "name": "Bernie",
-      "year": "2012",
-      "why": "Based on a true story: a beloved small-town Texas mortician kills a hated widow, and the town would rather he got away with it. Richard Linklater plays it completely straight."
-    },
     {
       "id": "tt3464902",
       "name": "The Lobster",
@@ -247,6 +241,12 @@
       "name": "Wild Tales",
       "year": "2014",
       "why": "An Argentine anthology of six stories in which ordinary people pushed by small slights escalate to wrecked cars, poison and a wedding that turns into a massacre. It is pitch-black and very funny, and every story ends on a sharp punchline."
+    },
+    {
+      "id": "tt4995790",
+      "name": "The Square",
+      "year": "2017",
+      "why": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben Östlund's satire stays bone-dry while respectable people calmly watch things get ugly."
     }
   ],
   "deepcuts": [
