@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -313,12 +313,6 @@
   ],
   "series": [
     {
-      "id": "tt31974367",
-      "name": "The Beast in Me",
-      "year": "2025",
-      "why": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
-    },
-    {
       "id": "tt11041332",
       "name": "Yellowjackets",
       "year": "2021–",
@@ -359,6 +353,12 @@
       "name": "Mindhunter",
       "year": "2017–2019",
       "why": "David Fincher's series about the FBI agents who invented criminal profiling by interviewing serial killers. Calm, chilling conversations with real monsters."
+    },
+    {
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "year": "2025–",
+      "why": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
     }
   ]
 }

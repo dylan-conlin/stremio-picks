@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt31974367",
-      "type": "series",
-      "name": "The Beast in Me",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt31974367/img",
-      "description": "A grieving author becomes obsessed with her charming neighbor, whose wife disappeared. A slow-burn psychological thriller about suspicion, obsession and a man who may be a monster."
-    },
-    {
       "id": "tt11041332",
       "type": "series",
       "name": "Yellowjackets",
@@ -63,6 +55,14 @@
       "releaseInfo": "2017–2019",
       "poster": "https://images.metahub.space/poster/medium/tt5290382/img",
       "description": "David Fincher's series about the FBI agents who invented criminal profiling by interviewing serial killers. Calm, chilling conversations with real monsters."
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "releaseInfo": "2025–",
+      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
+      "description": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
     }
   ]
 }
