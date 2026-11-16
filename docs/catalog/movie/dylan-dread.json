@@ -1,84 +1,84 @@
 {
   "metas": [
     {
-      "id": "tt32246771",
-      "type": "movie",
-      "name": "Bring Her Back",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt32246771/img",
-      "description": "From the Philippou brothers: two siblings are placed with a foster mother whose grief has turned into something monstrous. Relentless and cruel horror that keeps tightening to the end."
-    },
-    {
-      "id": "tt14253846",
-      "type": "movie",
-      "name": "Speak No Evil",
-      "releaseInfo": "2022",
-      "poster": "https://images.metahub.space/poster/medium/tt14253846/img",
-      "description": "In the Danish original, a polite couple spends a weekend with a family they met on holiday and keeps excusing behavior that grows steadily worse. Its ending is famously brutal."
-    },
-    {
-      "id": "tt23468450",
-      "type": "movie",
-      "name": "Longlegs",
-      "releaseInfo": "2024",
-      "poster": "https://images.metahub.space/poster/medium/tt23468450/img",
-      "description": "An FBI agent hunts a satanic serial killer in this cold, precise horror film. The dread builds slowly, and it ends somewhere truly upsetting."
-    },
-    {
-      "id": "tt2316411",
-      "type": "movie",
-      "name": "Enemy",
-      "releaseInfo": "2014",
-      "poster": "https://images.metahub.space/poster/medium/tt2316411/img",
-      "description": "Denis Villeneuve's thriller about a man who finds his exact double. Jake Gyllenhaal stars in a cold, controlled puzzle with one of the most unsettling final shots in modern film."
-    },
-    {
-      "id": "tt1216496",
-      "type": "movie",
-      "name": "Mother",
-      "releaseInfo": "2009",
-      "poster": "https://images.metahub.space/poster/medium/tt1216496/img",
-      "description": "Bong Joon-ho's thriller about a mother who will do anything to clear her son of murder. Dark, darkly funny in places, and ending on a devastating turn."
-    },
-    {
-      "id": "tt0353969",
-      "type": "movie",
-      "name": "Memories of Murder",
-      "releaseInfo": "2003",
-      "poster": "https://images.metahub.space/poster/medium/tt0353969/img",
-      "description": "Bong Joon-ho's serial-killer investigation in 1980s rural Korea, where incompetence and cruelty pile up alongside the bodies. Its ending is unforgettable."
-    },
-    {
-      "id": "tt3086442",
-      "type": "movie",
-      "name": "Goodnight Mommy",
-      "releaseInfo": "2015",
-      "poster": "https://images.metahub.space/poster/medium/tt3086442/img",
-      "description": "In the Austrian original, twin boys become convinced the bandaged woman who came home from surgery isn't their mother. Austere, cruel and extremely tense."
-    },
-    {
-      "id": "tt1190539",
-      "type": "movie",
-      "name": "The Chaser",
-      "releaseInfo": "2008",
-      "poster": "https://images.metahub.space/poster/medium/tt1190539/img",
-      "description": "A disgraced cop turned pimp hunts the serial killer who has taken one of his women. A Korean thriller that is breathless, brutal and doesn't flinch."
-    },
-    {
-      "id": "tt7282468",
-      "type": "movie",
-      "name": "Burning",
-      "releaseInfo": "2018",
-      "poster": "https://images.metahub.space/poster/medium/tt7282468/img",
-      "description": "Lee Chang-dong's slow-burn mystery about a delivery boy, the woman he likes and the smiling rich man who may have made her disappear. The menace keeps growing until a sudden release at the end."
-    },
-    {
       "id": "tt4291600",
       "type": "movie",
       "name": "Lady Macbeth",
       "releaseInfo": "2017",
       "poster": "https://images.metahub.space/poster/medium/tt4291600/img",
       "description": "A young woman sold into a loveless marriage in rural 19th-century England starts an affair and then kills to protect it. It's cold, spare and quietly vicious, and it ends on a chilling note."
+    },
+    {
+      "id": "tt0310775",
+      "type": "movie",
+      "name": "Sympathy for Mr. Vengeance",
+      "releaseInfo": "2002",
+      "poster": "https://images.metahub.space/poster/medium/tt0310775/img",
+      "description": "Park Chan-wook's first vengeance film: a kidnapping meant to be harmless spirals into a chain of retribution. Cold, logical and devastating."
+    },
+    {
+      "id": "tt1189073",
+      "type": "movie",
+      "name": "The Skin I Live In",
+      "releaseInfo": "2011",
+      "poster": "https://images.metahub.space/poster/medium/tt1189073/img",
+      "description": "Almodóvar's clinical thriller about a surgeon and the woman held captive in his house. The mid-film reveal recasts everything, and the ending pays it off."
+    },
+    {
+      "id": "tt0365376",
+      "type": "movie",
+      "name": "A Tale of Two Sisters",
+      "releaseInfo": "2003",
+      "poster": "https://images.metahub.space/poster/medium/tt0365376/img",
+      "description": "Two sisters come home to a stepmother and a house that's wrong. A beautifully controlled Korean horror with a twist that cuts deep."
+    },
+    {
+      "id": "tt0364569",
+      "type": "movie",
+      "name": "Oldboy",
+      "releaseInfo": "2003",
+      "poster": "https://images.metahub.space/poster/medium/tt0364569/img",
+      "description": "A man imprisoned for 15 years without explanation is released and given five days to find out why. The revenge plot builds to one of cinema's cruelest reveals."
+    },
+    {
+      "id": "tt1051906",
+      "type": "movie",
+      "name": "The Invisible Man",
+      "releaseInfo": "2020",
+      "poster": "https://images.metahub.space/poster/medium/tt1051906/img",
+      "description": "A woman escapes her controlling partner, then becomes convinced he's still with her. Gaslighting turned into precise, escalating horror."
+    },
+    {
+      "id": "tt4263482",
+      "type": "movie",
+      "name": "The Witch",
+      "releaseInfo": "2016",
+      "poster": "https://images.metahub.space/poster/medium/tt4263482/img",
+      "description": "A banished Puritan family on the edge of a forest turns on itself as something picks off its members. Slow, exact, and dread that never lets up."
+    },
+    {
+      "id": "tt5918982",
+      "type": "movie",
+      "name": "Possessor",
+      "releaseInfo": "2020",
+      "poster": "https://images.metahub.space/poster/medium/tt5918982/img",
+      "description": "A corporate assassin who works by taking over other people's bodies loses her grip on herself. Brandon Cronenberg's cold, savage sci-fi horror."
+    },
+    {
+      "id": "tt0278504",
+      "type": "movie",
+      "name": "Insomnia",
+      "releaseInfo": "2002",
+      "poster": "https://images.metahub.space/poster/medium/tt0278504/img",
+      "description": "A sleepless detective covers up his own mistake while a calm killer blackmails him. A tight moral squeeze under a sun that never sets."
+    },
+    {
+      "id": "tt0086979",
+      "type": "movie",
+      "name": "Blood Simple",
+      "releaseInfo": "1985",
+      "poster": "https://images.metahub.space/poster/medium/tt0086979/img",
+      "description": "The Coens' debut: a jealous bar owner hires a sleazy detective to kill his wife, and every double-cross makes it worse."
     }
   ]
 }

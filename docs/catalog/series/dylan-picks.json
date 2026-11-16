@@ -1,68 +1,68 @@
 {
   "metas": [
     {
-      "id": "tt11041332",
-      "type": "series",
-      "name": "Yellowjackets",
-      "releaseInfo": "2021–",
-      "poster": "https://images.metahub.space/poster/medium/tt11041332/img",
-      "description": "A high school girls' soccer team stranded in the wilderness turns on itself, and the survivors are still hiding what happened decades later. Teen cruelty, social pecking orders and psychological horror with real stakes."
-    },
-    {
-      "id": "tt37218592",
-      "type": "series",
-      "name": "The Price of Confession",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt37218592/img",
-      "description": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "releaseInfo": "2025–",
-      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
-      "description": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
-    },
-    {
-      "id": "tt37890201",
-      "type": "series",
-      "name": "Dear X",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt37890201/img",
-      "description": "A woman hides behind a mask to escape her past and climbs to power, destroying everyone in her way. A twisted, stylish story of a female antihero's revenge."
-    },
-    {
-      "id": "tt2802850",
-      "type": "series",
-      "name": "Fargo",
-      "releaseInfo": "2014–2024",
-      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
-      "description": "An anthology of Midwestern crime stories in which ordinary people slide into monstrous acts. Deadpan, violent and tightly plotted each season."
-    },
-    {
-      "id": "tt13649112",
-      "type": "series",
-      "name": "Baby Reindeer",
-      "releaseInfo": "2024",
-      "poster": "https://images.metahub.space/poster/medium/tt13649112/img",
-      "description": "A struggling comedian's kindness to a stranger turns into a years-long stalking nightmare. Told unflinchingly and impossible to stop watching."
-    },
-    {
-      "id": "tt5290382",
-      "type": "series",
-      "name": "Mindhunter",
-      "releaseInfo": "2017–2019",
-      "poster": "https://images.metahub.space/poster/medium/tt5290382/img",
-      "description": "David Fincher's series about the FBI agents who invented criminal profiling by interviewing serial killers. Calm, chilling conversations with real monsters."
-    },
-    {
       "id": "tt22202452",
       "type": "series",
       "name": "Pluribus",
       "releaseInfo": "2025–",
       "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
       "description": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
+    },
+    {
+      "id": "tt2401256",
+      "type": "series",
+      "name": "The Night Of",
+      "releaseInfo": "2016",
+      "poster": "https://images.metahub.space/poster/medium/tt2401256/img",
+      "description": "A college student wakes beside a murdered woman and is swallowed by the justice system. Tight and grim, and every episode tightens the vise."
+    },
+    {
+      "id": "tt11016042",
+      "type": "series",
+      "name": "Ripley",
+      "releaseInfo": "2024",
+      "poster": "https://images.metahub.space/poster/medium/tt11016042/img",
+      "description": "Steven Zaillian's black-and-white Highsmith adaptation of a con man who murders his way into a rich man's life. Cold, precise and patient."
+    },
+    {
+      "id": "tt10155688",
+      "type": "series",
+      "name": "Mare of Easttown",
+      "releaseInfo": "2021",
+      "poster": "https://images.metahub.space/poster/medium/tt10155688/img",
+      "description": "A worn-out small-town detective investigates a teenage mother's murder while her own life falls apart. Each episode lands a turn, and the ending is excellent."
+    },
+    {
+      "id": "tt3428912",
+      "type": "series",
+      "name": "Happy Valley",
+      "releaseInfo": "2014–2023",
+      "poster": "https://images.metahub.space/poster/medium/tt3428912/img",
+      "description": "A Yorkshire police sergeant crosses paths again with the man who destroyed her family. Brutal, smart and very hard to stop watching."
+    },
+    {
+      "id": "tt6048596",
+      "type": "series",
+      "name": "The Sinner",
+      "releaseInfo": "2017–2021",
+      "poster": "https://images.metahub.space/poster/medium/tt6048596/img",
+      "description": "A young mother stabs a stranger to death on a beach and has no idea why. Each season peels back a buried trauma."
+    },
+    {
+      "id": "tt3920596",
+      "type": "series",
+      "name": "Big Little Lies",
+      "releaseInfo": "2017–2026",
+      "poster": "https://images.metahub.space/poster/medium/tt3920596/img",
+      "description": "A murder at a school fundraiser in wealthy Monterey, told through the mothers lying to each other. Glossy, cruel and well paced."
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "releaseInfo": "2014–",
+      "poster": "https://images.metahub.space/poster/medium/tt2356777/img",
+      "description": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
     }
   ]
 }

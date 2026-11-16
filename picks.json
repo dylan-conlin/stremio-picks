@@ -1,37 +1,7 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
-    {
-      "id": "tt7798634",
-      "name": "Ready or Not",
-      "year": "2019",
-      "why": "A new bride's wedding night turns into a deadly game of hide-and-seek with her rich in-laws. It's a pitch-black comedy thriller about a polite family that goes along with something monstrous, and it is funny and tense all the way through."
-    },
-    {
-      "id": "tt32916440",
-      "name": "Marty Supreme",
-      "year": "2025",
-      "why": "A hustler chasing table-tennis glory careens from one bad decision to the next. The anxiety never lets up, it's often very funny, and there's always something at stake."
-    },
-    {
-      "id": "tt34890576",
-      "name": "Clayface",
-      "year": "2026",
-      "why": "A rising Hollywood star loses his face and his identity to a scientific experiment and turns into a monster bent on revenge. Body horror and a revenge story in one, with an unsparing look at vanity and fame."
-    },
-    {
-      "id": "tt4016934",
-      "name": "The Handmaiden",
-      "year": "2017",
-      "why": "Park Chan-wook's lush, erotic con-game thriller set in 1930s Korea, where a maid and an heiress play a long game of double-crosses against the men scheming over them. Twisted, beautifully controlled, and built toward a deeply satisfying revenge payoff."
-    },
-    {
-      "id": "tt0096163",
-      "name": "The Vanishing",
-      "year": "1988",
-      "why": "A Dutch thriller about a man searching for his missing girlfriend and the calm, ordinary family man who took her. The film tightens slowly to one of the most chilling endings ever filmed."
-    },
     {
       "id": "tt0416320",
       "name": "Match Point",
@@ -61,181 +31,163 @@
       "name": "Green Room",
       "year": "2016",
       "why": "A punk band sees a murder at a neo-Nazi bar and is trapped in the green room while the owners plan how to get rid of them. Jeremy Saulnier's siege thriller is relentless, with sudden violence and real stakes."
+    },
+    {
+      "id": "tt4550098",
+      "name": "Nocturnal Animals",
+      "year": "2016",
+      "why": "An art dealer reads her ex-husband's brutal novel, and the story bleeds into her own guilt. Tom Ford controls every frame, the menace keeps rising and the revenge ending is cold."
+    },
+    {
+      "id": "tt3716530",
+      "name": "Elle",
+      "year": "2016",
+      "why": "Verhoeven's thriller about a game-company boss who responds to an assault in ways no one expects. Darkly funny, deeply uncomfortable and completely controlled."
+    },
+    {
+      "id": "tt0134119",
+      "name": "The Talented Mr. Ripley",
+      "year": "1999",
+      "why": "A charming nobody slides into a rich man's life and then commits murder to keep it. A sunlit thriller where every lie tightens the noose."
+    },
+    {
+      "id": "tt0120324",
+      "name": "A Simple Plan",
+      "year": "1999",
+      "why": "Three ordinary men find a crashed plane full of cash, and keeping it turns decent people into killers one reasonable step at a time. Sam Raimi's most precise film."
+    },
+    {
+      "id": "tt0443706",
+      "name": "Zodiac",
+      "year": "2007",
+      "why": "Fincher's obsessive serial-killer procedural, where the search eats the lives of the men running it. The basement scene is one of the most frightening sequences of its decade."
     }
   ],
   "new": [
-    {
-      "id": "tt33296751",
-      "name": "Tuner",
-      "year": "2026",
-      "why": "A piano tuner with painfully sensitive hearing finds he can crack safes, and his life slides into crime. A precise, unusual thriller built around one strange skill."
-    },
-    {
-      "id": "tt23172090",
-      "name": "Dust Bunny",
-      "year": "2025",
-      "why": "Bryan Fuller's debut feature: a girl hires the hitman next door to kill the monster under her bed. A strange, stylish dark fairy tale played completely straight."
-    },
-    {
-      "id": "tt37027309",
-      "name": "Lo dejamos acá",
-      "year": "2026",
-      "why": "A disillusioned psychoanalyst starts secretly meddling in his patients' lives, with great results, until one patient pushes back. A dark comedy about a quiet abuse of power."
-    },
-    {
-      "id": "tt37070354",
-      "name": "The Storm",
-      "year": "2026",
-      "why": "A lavish 45th-birthday dinner at a remote Swedish estate, with a ferocious storm on the way. Scandinavian social comedy where a sealed-off group of privileged people turns on each other."
-    },
-    {
-      "id": "tt33295741",
-      "name": "Redux Redux",
-      "year": "2026",
-      "why": "A mother jumps between parallel universes to kill her daughter's murderer again and again, and loses a little more of herself each time. Pulpy, inventive revenge with a dark core."
-    },
-    {
-      "id": "tt32321317",
-      "name": "Pillion",
-      "year": "2026",
-      "why": "A shy man becomes the submissive of an enigmatic biker in this British comedy. It treats an extreme power dynamic with a dry, totally straight face."
-    },
-    {
-      "id": "tt33365126",
-      "name": "Carolina Caroline",
-      "year": "2026",
-      "why": "A young woman joins a charming con man on a crime spree across the Southeast. A lovers-on-the-run story with an edge of danger."
-    },
-    {
-      "id": "tt38589433",
-      "name": "Never After Dark",
-      "year": "2026",
-      "why": "A traveling psychic investigates a powerful entity in a remote house and finds the real threat comes from somewhere unexpected. Supernatural horror with a mystery at its center."
-    },
-    {
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "year": "2026",
-      "why": "A crime drama tracing a Harvard student's path from psychological experiments to a deadly bombing campaign, alongside the FBI hunt that caught him."
-    },
     {
       "id": "tt27706593",
       "name": "The Rivals of Amziah King",
       "year": "2026",
       "why": "A beekeeper who anchors his small community reunites with his former foster daughter while threats close in on his honey business. It's a slow-burn rural crime thriller with menace under a folksy surface."
+    },
+    {
+      "id": "tt11561116",
+      "name": "The Whisper Man",
+      "year": "2026",
+      "why": "A grieving father and his son move to a town still haunted by a serial killer who may have had an accomplice. A dark crime thriller built on a slowly closing trap."
+    },
+    {
+      "id": "tt35856037",
+      "name": "Your Mother Your Mother Your Mother",
+      "year": "2026",
+      "why": "A devout hitman races across Houston to protect his children after his wife dies. A tense crime drama about a violent man whose beliefs are coming apart."
+    },
+    {
+      "id": "tt36586020",
+      "name": "Other Mommy",
+      "year": "2026",
+      "why": "A girl in a home torn by her parents' marriage meets a sinister presence from her closet that calls itself Other Mommy. Domestic horror where the family drama feeds the threat."
+    },
+    {
+      "id": "tt34886821",
+      "name": "La Grazia",
+      "year": "2025",
+      "why": "Sorrentino's drama about a widowed Italian president deciding on euthanasia and pardons for killers while brooding over his late wife's infidelity. Dry and morally knotty."
+    },
+    {
+      "id": "tt31189315",
+      "name": "Father Mother Sister Brother",
+      "year": "2025",
+      "why": "Jarmusch's deadpan triptych of estranged adult children visiting their cool, distant parents. Quiet, dry and painfully awkward."
+    },
+    {
+      "id": "tt43739386",
+      "name": "V/H/S/Mixtape",
+      "year": "2026",
+      "why": "The latest found-footage anthology, built this time around music and sound. A string of short, nasty scares."
+    },
+    {
+      "id": "tt32273171",
+      "name": "The Death of Robin Hood",
+      "year": "2026",
+      "why": "A bleak reinvention with an aging Robin Hood haunted by a life of murder and offered a strange chance at salvation. Grim and violent."
+    },
+    {
+      "id": "tt32880540",
+      "name": "Zeta",
+      "year": "2025",
+      "why": "A Spanish spy hunts a former agent from an old undercover mission while a Colombian operative chases the same man. A cold-blooded espionage thriller about buried secrets."
+    },
+    {
+      "id": "tt15047880",
+      "name": "Disclosure Day",
+      "year": "2026",
+      "why": "Spielberg's sci-fi mystery about what happens when proof arrives that we aren't alone. Builds on paranoia rather than spectacle."
     }
   ],
   "dread": [
-    {
-      "id": "tt32246771",
-      "name": "Bring Her Back",
-      "year": "2025",
-      "why": "From the Philippou brothers: two siblings are placed with a foster mother whose grief has turned into something monstrous. Relentless and cruel horror that keeps tightening to the end."
-    },
-    {
-      "id": "tt14253846",
-      "name": "Speak No Evil",
-      "year": "2022",
-      "why": "In the Danish original, a polite couple spends a weekend with a family they met on holiday and keeps excusing behavior that grows steadily worse. Its ending is famously brutal."
-    },
-    {
-      "id": "tt23468450",
-      "name": "Longlegs",
-      "year": "2024",
-      "why": "An FBI agent hunts a satanic serial killer in this cold, precise horror film. The dread builds slowly, and it ends somewhere truly upsetting."
-    },
-    {
-      "id": "tt2316411",
-      "name": "Enemy",
-      "year": "2014",
-      "why": "Denis Villeneuve's thriller about a man who finds his exact double. Jake Gyllenhaal stars in a cold, controlled puzzle with one of the most unsettling final shots in modern film."
-    },
-    {
-      "id": "tt1216496",
-      "name": "Mother",
-      "year": "2009",
-      "why": "Bong Joon-ho's thriller about a mother who will do anything to clear her son of murder. Dark, darkly funny in places, and ending on a devastating turn."
-    },
-    {
-      "id": "tt0353969",
-      "name": "Memories of Murder",
-      "year": "2003",
-      "why": "Bong Joon-ho's serial-killer investigation in 1980s rural Korea, where incompetence and cruelty pile up alongside the bodies. Its ending is unforgettable."
-    },
-    {
-      "id": "tt3086442",
-      "name": "Goodnight Mommy",
-      "year": "2015",
-      "why": "In the Austrian original, twin boys become convinced the bandaged woman who came home from surgery isn't their mother. Austere, cruel and extremely tense."
-    },
-    {
-      "id": "tt1190539",
-      "name": "The Chaser",
-      "year": "2008",
-      "why": "A disgraced cop turned pimp hunts the serial killer who has taken one of his women. A Korean thriller that is breathless, brutal and doesn't flinch."
-    },
-    {
-      "id": "tt7282468",
-      "name": "Burning",
-      "year": "2018",
-      "why": "Lee Chang-dong's slow-burn mystery about a delivery boy, the woman he likes and the smiling rich man who may have made her disappear. The menace keeps growing until a sudden release at the end."
-    },
     {
       "id": "tt4291600",
       "name": "Lady Macbeth",
       "year": "2017",
       "why": "A young woman sold into a loveless marriage in rural 19th-century England starts an affair and then kills to protect it. It's cold, spare and quietly vicious, and it ends on a chilling note."
+    },
+    {
+      "id": "tt0310775",
+      "name": "Sympathy for Mr. Vengeance",
+      "year": "2002",
+      "why": "Park Chan-wook's first vengeance film: a kidnapping meant to be harmless spirals into a chain of retribution. Cold, logical and devastating."
+    },
+    {
+      "id": "tt1189073",
+      "name": "The Skin I Live In",
+      "year": "2011",
+      "why": "Almodóvar's clinical thriller about a surgeon and the woman held captive in his house. The mid-film reveal recasts everything, and the ending pays it off."
+    },
+    {
+      "id": "tt0365376",
+      "name": "A Tale of Two Sisters",
+      "year": "2003",
+      "why": "Two sisters come home to a stepmother and a house that's wrong. A beautifully controlled Korean horror with a twist that cuts deep."
+    },
+    {
+      "id": "tt0364569",
+      "name": "Oldboy",
+      "year": "2003",
+      "why": "A man imprisoned for 15 years without explanation is released and given five days to find out why. The revenge plot builds to one of cinema's cruelest reveals."
+    },
+    {
+      "id": "tt1051906",
+      "name": "The Invisible Man",
+      "year": "2020",
+      "why": "A woman escapes her controlling partner, then becomes convinced he's still with her. Gaslighting turned into precise, escalating horror."
+    },
+    {
+      "id": "tt4263482",
+      "name": "The Witch",
+      "year": "2016",
+      "why": "A banished Puritan family on the edge of a forest turns on itself as something picks off its members. Slow, exact, and dread that never lets up."
+    },
+    {
+      "id": "tt5918982",
+      "name": "Possessor",
+      "year": "2020",
+      "why": "A corporate assassin who works by taking over other people's bodies loses her grip on herself. Brandon Cronenberg's cold, savage sci-fi horror."
+    },
+    {
+      "id": "tt0278504",
+      "name": "Insomnia",
+      "year": "2002",
+      "why": "A sleepless detective covers up his own mistake while a calm killer blackmails him. A tight moral squeeze under a sun that never sets."
+    },
+    {
+      "id": "tt0086979",
+      "name": "Blood Simple",
+      "year": "1985",
+      "why": "The Coens' debut: a jealous bar owner hires a sleazy detective to kill his wife, and every double-cross makes it worse."
     }
   ],
   "deadpan": [
-    {
-      "id": "tt3464902",
-      "name": "The Lobster",
-      "year": "2015",
-      "why": "Yorgos Lanthimos's satire in which single people get 45 days to find a partner or be turned into animals. Everyone delivers absurd cruelty in a flat monotone."
-    },
-    {
-      "id": "tt0147612",
-      "name": "Happiness",
-      "year": "1998",
-      "why": "Todd Solondz's interlocking portrait of suburban New Jersey, where ordinary people hide monstrous secrets. It is unbearably deadpan."
-    },
-    {
-      "id": "tt2121382",
-      "name": "Force Majeure",
-      "year": "2014",
-      "why": "A father runs from an avalanche and leaves his family behind, and the rest of their ski holiday turns into a quiet trial. Ruben Östlund's precise, excruciating comedy."
-    },
-    {
-      "id": "tt22408160",
-      "name": "Kinds of Kindness",
-      "year": "2024",
-      "why": "Yorgos Lanthimos's three-part film about people who give up everything to please those who control them. Cruel, strange and deadpan throughout."
-    },
-    {
-      "id": "tt0116282",
-      "name": "Fargo",
-      "year": "1996",
-      "why": "The Coen brothers' crime story about a car salesman whose plan to have his wife kidnapped falls apart. Murder plays out against Minnesota politeness."
-    },
-    {
-      "id": "tt0114681",
-      "name": "To Die For",
-      "year": "1995",
-      "why": "Nicole Kidman plays a small-town weather girl who will do anything to get on TV, including talking teenagers into murder. A sly satire played cool."
-    },
-    {
-      "id": "tt1262981",
-      "name": "World's Greatest Dad",
-      "year": "2010",
-      "why": "After his awful son dies in an embarrassing accident, a failed writer fakes a suicide note, and the whole school embraces the lie. Bobcat Goldthwait's pitch-black comedy."
-    },
-    {
-      "id": "tt2023690",
-      "name": "Sightseers",
-      "year": "2013",
-      "why": "A mild British couple on a caravan holiday start killing anyone who annoys them. Ben Wheatley plays the murders as small domestic matters."
-    },
     {
       "id": "tt3011894",
       "name": "Wild Tales",
@@ -247,118 +199,166 @@
       "name": "The Square",
       "year": "2017",
       "why": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben Östlund's satire stays bone-dry while respectable people calmly watch things get ugly."
+    },
+    {
+      "id": "tt7322224",
+      "name": "Triangle of Sadness",
+      "year": "2022",
+      "why": "Östlund's satire of models and the ultra-rich on a luxury cruise that goes very wrong. Cool, merciless and played completely straight."
+    },
+    {
+      "id": "tt0085794",
+      "name": "The King of Comedy",
+      "year": "1982",
+      "why": "A delusional would-be comic kidnaps a talk-show host to get his shot. Scorsese plays the horror as calm, sad comedy."
+    },
+    {
+      "id": "tt4686844",
+      "name": "The Death of Stalin",
+      "year": "2018",
+      "why": "Stalin's inner circle scrambles for power over his corpse while the purges go on. Very funny and genuinely monstrous."
+    },
+    {
+      "id": "tt5962210",
+      "name": "Ingrid Goes West",
+      "year": "2017",
+      "why": "An unstable woman moves to LA to insert herself into an influencer's life. Pitch-dark social media satire that never winks."
+    },
+    {
+      "id": "tt21942866",
+      "name": "Dream Scenario",
+      "year": "2023",
+      "why": "A dull professor starts appearing in millions of strangers' dreams, and fame curdles into a mob. Nicolas Cage plays it bone-dry."
+    },
+    {
+      "id": "tt0114906",
+      "name": "Welcome to the Dollhouse",
+      "year": "1995",
+      "why": "Solondz's portrait of a bullied seventh-grader in a cruel suburban family. Deadpan and uncomfortable, and the humiliations are presented with a straight face."
+    },
+    {
+      "id": "tt1625346",
+      "name": "Young Adult",
+      "year": "2011",
+      "why": "A ghostwriter of teen novels returns to her hometown to steal back her married high-school boyfriend. A calmly awful protagonist and a refusal to redeem her."
+    },
+    {
+      "id": "tt9893250",
+      "name": "I Care a Lot",
+      "year": "2021",
+      "why": "A legal guardian strips elderly wards of their assets, then picks the wrong victim. A smiling villain running a monstrous scam as routine business."
     }
   ],
   "deepcuts": [
     {
-      "id": "tt0123948",
-      "name": "Cure",
-      "year": "2001",
-      "why": "Kiyoshi Kurosawa's Japanese thriller about a detective chasing murders committed by ordinary people who don't know why they did it. Hypnotic and deeply unsettling."
+      "id": "tt0112769",
+      "name": "La cérémonie",
+      "year": "1996",
+      "why": "Chabrol's class thriller about an illiterate maid and a postal clerk who resent a wealthy family. Restrained all the way to a shocking ending."
     },
     {
-      "id": "tt1971352",
-      "name": "Compliance",
+      "id": "tt6269368",
+      "name": "The Clovehitch Killer",
+      "year": "2018",
+      "why": "A Boy Scout in a Christian town begins to suspect his father is a local serial killer. Quiet, suburban and steadily chilling."
+    },
+    {
+      "id": "tt6742252",
+      "name": "The Guilty",
+      "year": "2018",
+      "why": "A Danish emergency dispatcher takes a call from a kidnapped woman and tries to save her without leaving his desk. Ninety minutes of rising tension with a crushing turn."
+    },
+    {
+      "id": "tt1173745",
+      "name": "Revanche",
+      "year": "2008",
+      "why": "An Austrian ex-con's robbery goes wrong, and he finds himself close to the cop he blames. A slow, tight moral thriller."
+    },
+    {
+      "id": "tt0154420",
+      "name": "The Celebration",
+      "year": "1998",
+      "why": "At a patriarch's 60th birthday dinner, his son stands to make a toast that reveals the family's secret. Raw, darkly funny and devastating."
+    },
+    {
+      "id": "tt0419677",
+      "name": "Dead Man's Shoes",
+      "year": "2004",
+      "why": "A soldier comes home to take methodical revenge on the small-town thugs who tormented his brother. Brutal, and the reveal changes everything."
+    },
+    {
+      "id": "tt0471030",
+      "name": "Red Road",
+      "year": "2006",
+      "why": "A Glasgow CCTV operator spots a man from her past on her screens and begins following him. A quiet surveillance thriller with a sharp ending."
+    },
+    {
+      "id": "tt1204340",
+      "name": "Tyrannosaur",
+      "year": "2011",
+      "why": "A violent widower and a charity-shop worker with a secret at home. Harsh British realism in which the cruelty leads to a reckoning."
+    },
+    {
+      "id": "tt1646959",
+      "name": "Bedevilled",
       "year": "2012",
-      "why": "Based on a true story: a prank caller posing as a cop talks fast-food staff into abusing a coworker. A study of ordinary people obeying something monstrous."
+      "why": "A Seoul banker visits the remote island where her childhood friend is treated like a slave by the whole village. It builds slowly to an explosion of revenge."
     },
     {
-      "id": "tt1590089",
-      "name": "Confessions",
-      "year": "2010",
-      "why": "Tetsuya Nakashima's Japanese film about a teacher who calmly tells her class that two students killed her daughter, and that she has already taken revenge. Icy and stylish."
-    },
-    {
-      "id": "tt1680114",
-      "name": "Snowtown",
-      "year": "2011",
-      "why": "Based on Australia's worst serial killings: a charismatic neighbor draws a teenager into his circle of killers. Quiet, horrifying and real."
-    },
-    {
-      "id": "tt1788391",
-      "name": "Kill List",
-      "year": "2011",
-      "why": "Ben Wheatley's British film about two ex-soldiers turned hitmen whose latest job is getting stranger. It moves from kitchen-sink drama into nightmare, with a bleak final turn."
-    },
-    {
-      "id": "tt2389182",
-      "name": "Cheap Thrills",
+      "id": "tt3697626",
+      "name": "A Hard Day",
       "year": "2014",
-      "why": "A broke father meets an old friend at a bar, where a rich couple starts paying them for ever-worse dares. Escalation turned into a dark comedy."
-    },
-    {
-      "id": "tt2309224",
-      "name": "Big Bad Wolves",
-      "year": "2013",
-      "why": "In this Israeli thriller, a vigilante cop and a grieving father kidnap a suspected child killer. Brutal and unexpectedly funny, with a final shot that bites."
-    },
-    {
-      "id": "tt1379182",
-      "name": "Dogtooth",
-      "year": "2009",
-      "why": "Yorgos Lanthimos's Greek breakthrough about parents who keep their grown children sealed in a compound of invented rules. Cruel, deadpan and very strange."
-    },
-    {
-      "id": "tt0103905",
-      "name": "Man Bites Dog",
-      "year": "1993",
-      "why": "A Belgian mockumentary in which a film crew follows a charming serial killer and slowly becomes his accomplice. Pitch-black satire played straight."
-    },
-    {
-      "id": "tt2106476",
-      "name": "The Hunt",
-      "year": "2012",
-      "why": "A Danish kindergarten teacher is falsely accused, and his small town turns on him. Thomas Vinterberg's portrait of a community's cruelty is agonizingly tense."
+      "why": "A corrupt detective hides a body after a hit-and-run, then someone who knows starts calling. A tense, blackly funny Korean thriller."
     }
   ],
   "series": [
-    {
-      "id": "tt11041332",
-      "name": "Yellowjackets",
-      "year": "2021–",
-      "why": "A high school girls' soccer team stranded in the wilderness turns on itself, and the survivors are still hiding what happened decades later. Teen cruelty, social pecking orders and psychological horror with real stakes."
-    },
-    {
-      "id": "tt37218592",
-      "name": "The Price of Confession",
-      "year": "2025",
-      "why": "A woman accused of killing her husband is offered a deal by a mysterious stranger: to prove her innocence, she must commit a murder. A twisty Korean psychological thriller built on moral compromise."
-    },
-    {
-      "id": "tt33043892",
-      "name": "Dexter: Resurrection",
-      "year": "2025–",
-      "why": "The serial killer with a code wakes from a coma and heads to New York to find his son as his past closes in. A darkly funny crime thriller that keeps the suspense going episode to episode."
-    },
-    {
-      "id": "tt37890201",
-      "name": "Dear X",
-      "year": "2025",
-      "why": "A woman hides behind a mask to escape her past and climbs to power, destroying everyone in her way. A twisted, stylish story of a female antihero's revenge."
-    },
-    {
-      "id": "tt2802850",
-      "name": "Fargo",
-      "year": "2014–2024",
-      "why": "An anthology of Midwestern crime stories in which ordinary people slide into monstrous acts. Deadpan, violent and tightly plotted each season."
-    },
-    {
-      "id": "tt13649112",
-      "name": "Baby Reindeer",
-      "year": "2024",
-      "why": "A struggling comedian's kindness to a stranger turns into a years-long stalking nightmare. Told unflinchingly and impossible to stop watching."
-    },
-    {
-      "id": "tt5290382",
-      "name": "Mindhunter",
-      "year": "2017–2019",
-      "why": "David Fincher's series about the FBI agents who invented criminal profiling by interviewing serial killers. Calm, chilling conversations with real monsters."
-    },
     {
       "id": "tt22202452",
       "name": "Pluribus",
       "year": "2025–",
       "why": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
+    },
+    {
+      "id": "tt2401256",
+      "name": "The Night Of",
+      "year": "2016",
+      "why": "A college student wakes beside a murdered woman and is swallowed by the justice system. Tight and grim, and every episode tightens the vise."
+    },
+    {
+      "id": "tt11016042",
+      "name": "Ripley",
+      "year": "2024",
+      "why": "Steven Zaillian's black-and-white Highsmith adaptation of a con man who murders his way into a rich man's life. Cold, precise and patient."
+    },
+    {
+      "id": "tt10155688",
+      "name": "Mare of Easttown",
+      "year": "2021",
+      "why": "A worn-out small-town detective investigates a teenage mother's murder while her own life falls apart. Each episode lands a turn, and the ending is excellent."
+    },
+    {
+      "id": "tt3428912",
+      "name": "Happy Valley",
+      "year": "2014–2023",
+      "why": "A Yorkshire police sergeant crosses paths again with the man who destroyed her family. Brutal, smart and very hard to stop watching."
+    },
+    {
+      "id": "tt6048596",
+      "name": "The Sinner",
+      "year": "2017–2021",
+      "why": "A young mother stabs a stranger to death on a beach and has no idea why. Each season peels back a buried trauma."
+    },
+    {
+      "id": "tt3920596",
+      "name": "Big Little Lies",
+      "year": "2017–2026",
+      "why": "A murder at a school fundraiser in wealthy Monterey, told through the mothers lying to each other. Glossy, cruel and well paced."
+    },
+    {
+      "id": "tt2356777",
+      "name": "True Detective",
+      "year": "2014–",
+      "why": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
     }
   ]
 }

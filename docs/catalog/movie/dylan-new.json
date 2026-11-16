@@ -1,84 +1,84 @@
 {
   "metas": [
     {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt33296751/img",
-      "description": "A piano tuner with painfully sensitive hearing finds he can crack safes, and his life slides into crime. A precise, unusual thriller built around one strange skill."
-    },
-    {
-      "id": "tt23172090",
-      "type": "movie",
-      "name": "Dust Bunny",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt23172090/img",
-      "description": "Bryan Fuller's debut feature: a girl hires the hitman next door to kill the monster under her bed. A strange, stylish dark fairy tale played completely straight."
-    },
-    {
-      "id": "tt37027309",
-      "type": "movie",
-      "name": "Lo dejamos acá",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt37027309/img",
-      "description": "A disillusioned psychoanalyst starts secretly meddling in his patients' lives, with great results, until one patient pushes back. A dark comedy about a quiet abuse of power."
-    },
-    {
-      "id": "tt37070354",
-      "type": "movie",
-      "name": "The Storm",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt37070354/img",
-      "description": "A lavish 45th-birthday dinner at a remote Swedish estate, with a ferocious storm on the way. Scandinavian social comedy where a sealed-off group of privileged people turns on each other."
-    },
-    {
-      "id": "tt33295741",
-      "type": "movie",
-      "name": "Redux Redux",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt33295741/img",
-      "description": "A mother jumps between parallel universes to kill her daughter's murderer again and again, and loses a little more of herself each time. Pulpy, inventive revenge with a dark core."
-    },
-    {
-      "id": "tt32321317",
-      "type": "movie",
-      "name": "Pillion",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt32321317/img",
-      "description": "A shy man becomes the submissive of an enigmatic biker in this British comedy. It treats an extreme power dynamic with a dry, totally straight face."
-    },
-    {
-      "id": "tt33365126",
-      "type": "movie",
-      "name": "Carolina Caroline",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt33365126/img",
-      "description": "A young woman joins a charming con man on a crime spree across the Southeast. A lovers-on-the-run story with an edge of danger."
-    },
-    {
-      "id": "tt38589433",
-      "type": "movie",
-      "name": "Never After Dark",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt38589433/img",
-      "description": "A traveling psychic investigates a powerful entity in a remote house and finds the real threat comes from somewhere unexpected. Supernatural horror with a mystery at its center."
-    },
-    {
-      "id": "tt6933238",
-      "type": "movie",
-      "name": "Unabomber",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt6933238/img",
-      "description": "A crime drama tracing a Harvard student's path from psychological experiments to a deadly bombing campaign, alongside the FBI hunt that caught him."
-    },
-    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt27706593/img",
       "description": "A beekeeper who anchors his small community reunites with his former foster daughter while threats close in on his honey business. It's a slow-burn rural crime thriller with menace under a folksy surface."
+    },
+    {
+      "id": "tt11561116",
+      "type": "movie",
+      "name": "The Whisper Man",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt11561116/img",
+      "description": "A grieving father and his son move to a town still haunted by a serial killer who may have had an accomplice. A dark crime thriller built on a slowly closing trap."
+    },
+    {
+      "id": "tt35856037",
+      "type": "movie",
+      "name": "Your Mother Your Mother Your Mother",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt35856037/img",
+      "description": "A devout hitman races across Houston to protect his children after his wife dies. A tense crime drama about a violent man whose beliefs are coming apart."
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "name": "Other Mommy",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
+      "description": "A girl in a home torn by her parents' marriage meets a sinister presence from her closet that calls itself Other Mommy. Domestic horror where the family drama feeds the threat."
+    },
+    {
+      "id": "tt34886821",
+      "type": "movie",
+      "name": "La Grazia",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt34886821/img",
+      "description": "Sorrentino's drama about a widowed Italian president deciding on euthanasia and pardons for killers while brooding over his late wife's infidelity. Dry and morally knotty."
+    },
+    {
+      "id": "tt31189315",
+      "type": "movie",
+      "name": "Father Mother Sister Brother",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt31189315/img",
+      "description": "Jarmusch's deadpan triptych of estranged adult children visiting their cool, distant parents. Quiet, dry and painfully awkward."
+    },
+    {
+      "id": "tt43739386",
+      "type": "movie",
+      "name": "V/H/S/Mixtape",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt43739386/img",
+      "description": "The latest found-footage anthology, built this time around music and sound. A string of short, nasty scares."
+    },
+    {
+      "id": "tt32273171",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt32273171/img",
+      "description": "A bleak reinvention with an aging Robin Hood haunted by a life of murder and offered a strange chance at salvation. Grim and violent."
+    },
+    {
+      "id": "tt32880540",
+      "type": "movie",
+      "name": "Zeta",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt32880540/img",
+      "description": "A Spanish spy hunts a former agent from an old undercover mission while a Colombian operative chases the same man. A cold-blooded espionage thriller about buried secrets."
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
+      "description": "Spielberg's sci-fi mystery about what happens when proof arrives that we aren't alone. Builds on paranoia rather than spectacle."
     }
   ]
 }
