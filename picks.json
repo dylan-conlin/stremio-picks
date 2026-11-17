@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -19,7 +19,7 @@
       "id": "tt1588170",
       "name": "I Saw the Devil",
       "year": "2010",
-      "why": "A secret agent hunts the serial killer who murdered his fianc\u00e9e, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
+      "why": "A secret agent hunts the serial killer who murdered his fiancée, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
     },
     {
       "id": "tt1614989",
@@ -71,12 +71,6 @@
     }
   ],
   "new": [
-    {
-      "id": "tt27706593",
-      "name": "The Rivals of Amziah King",
-      "year": "2026",
-      "why": "A beekeeper who anchors his small community reunites with his former foster daughter while threats close in on his honey business. It's a slow-burn rural crime thriller with menace under a folksy surface."
-    },
     {
       "id": "tt11561116",
       "name": "The Whisper Man",
@@ -149,7 +143,7 @@
       "id": "tt1189073",
       "name": "The Skin I Live In",
       "year": "2011",
-      "why": "Almod\u00f3var's clinical thriller about a surgeon and the woman held captive in his house. The mid-film reveal recasts everything, and the ending pays it off."
+      "why": "Almodóvar's clinical thriller about a surgeon and the woman held captive in his house. The mid-film reveal recasts everything, and the ending pays it off."
     },
     {
       "id": "tt0365376",
@@ -205,13 +199,13 @@
       "id": "tt4995790",
       "name": "The Square",
       "year": "2017",
-      "why": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben \u00d6stlund's satire stays bone-dry while respectable people calmly watch things get ugly."
+      "why": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben Östlund's satire stays bone-dry while respectable people calmly watch things get ugly."
     },
     {
       "id": "tt7322224",
       "name": "Triangle of Sadness",
       "year": "2022",
-      "why": "\u00d6stlund's satire of models and the ultra-rich on a luxury cruise that goes very wrong. Cool, merciless and played completely straight."
+      "why": "Östlund's satire of models and the ultra-rich on a luxury cruise that goes very wrong. Cool, merciless and played completely straight."
     },
     {
       "id": "tt0085794",
@@ -259,7 +253,7 @@
   "deepcuts": [
     {
       "id": "tt0112769",
-      "name": "La c\u00e9r\u00e9monie",
+      "name": "La cérémonie",
       "year": "1996",
       "why": "Chabrol's class thriller about an illiterate maid and a postal clerk who resent a wealthy family. Restrained all the way to a shocking ending."
     },
@@ -322,7 +316,7 @@
     {
       "id": "tt22202452",
       "name": "Pluribus",
-      "year": "2025\u2013",
+      "year": "2025–",
       "why": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
     },
     {
@@ -346,25 +340,25 @@
     {
       "id": "tt3428912",
       "name": "Happy Valley",
-      "year": "2014\u20132023",
+      "year": "2014–2023",
       "why": "A Yorkshire police sergeant crosses paths again with the man who destroyed her family. Brutal, smart and very hard to stop watching."
     },
     {
       "id": "tt6048596",
       "name": "The Sinner",
-      "year": "2017\u20132021",
+      "year": "2017–2021",
       "why": "A young mother stabs a stranger to death on a beach and has no idea why. Each season peels back a buried trauma."
     },
     {
       "id": "tt3920596",
       "name": "Big Little Lies",
-      "year": "2017\u20132026",
+      "year": "2017–2026",
       "why": "A murder at a school fundraiser in wealthy Monterey, told through the mothers lying to each other. Glossy, cruel and well paced."
     },
     {
       "id": "tt2356777",
       "name": "True Detective",
-      "year": "2014\u2013",
+      "year": "2014–",
       "why": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
     }
   ]
