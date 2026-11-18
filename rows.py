@@ -19,6 +19,10 @@ ROWS = [
     {"key": "deepcuts", "type": "movie", "catalog": "dylan-deepcuts", "name": "Deep Cuts", "size": 10,
      "brief": "Lesser-known films, from before 2023 and from any country, in the same vein. Skip anything "
               "famous: no mainstream hits or best-of-decade staples."},
+    {"key": "doubles", "type": "movie", "catalog": "dylan-doubles", "name": "Doubles & Impostors", "size": 10,
+     "brief": "Doppelgangers, identical twins, impostors, stolen or swapped identities, and actors or "
+              "con artists playing a role in real life. Any year or country, thriller or dark drama "
+              "first. Strong candidates: Holy Motors (2012), The Double (2013), Persona (1966)."},
     {"key": "series", "type": "series", "catalog": "dylan-picks", "name": "Picks for Dylan", "size": 8,
      "brief": "Series he'll want to binge: same taste, with momentum from episode to episode."},
 ]

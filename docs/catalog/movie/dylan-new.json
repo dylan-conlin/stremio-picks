@@ -71,6 +71,14 @@
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
       "description": "Spielberg's sci-fi mystery about what happens when proof arrives that we aren't alone. Builds on paranoia rather than spectacle."
+    },
+    {
+      "id": "tt29567915",
+      "type": "movie",
+      "name": "Nuremberg",
+      "releaseInfo": "2025",
+      "poster": "https://images.metahub.space/poster/medium/tt29567915/img",
+      "description": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
     }
   ]
 }

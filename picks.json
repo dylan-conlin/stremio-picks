@@ -52,12 +52,6 @@
       "why": "Verhoeven's thriller about a game-company boss who responds to an assault in ways no one expects. Darkly funny, deeply uncomfortable and completely controlled."
     },
     {
-      "id": "tt0134119",
-      "name": "The Talented Mr. Ripley",
-      "year": "1999",
-      "why": "A charming nobody slides into a rich man's life and then commits murder to keep it. A sunlit thriller where every lie tightens the noose."
-    },
-    {
       "id": "tt0120324",
       "name": "A Simple Plan",
       "year": "1999",
@@ -124,6 +118,12 @@
       "name": "Disclosure Day",
       "year": "2026",
       "why": "Spielberg's sci-fi mystery about what happens when proof arrives that we aren't alone. Builds on paranoia rather than spectacle."
+    },
+    {
+      "id": "tt29567915",
+      "name": "Nuremberg",
+      "year": "2025",
+      "why": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
     }
   ],
   "dread": [
@@ -310,6 +310,68 @@
       "name": "A Hard Day",
       "year": "2014",
       "why": "A corrupt detective hides a body after a hit-and-run, then someone who knows starts calling. A tense, blackly funny Korean thriller."
+    }
+  ],
+  "doubles": [
+    {
+      "id": "tt1825157",
+      "name": "The Double",
+      "year": "2014",
+      "why": "A timid office clerk watches his exact double, who is confident and ruthless, take over his job, his crush and his life. Richard Ayoade's dark doppelgänger comedy is dry, airless and steadily menacing."
+    },
+    {
+      "id": "tt0093223",
+      "name": "House of Games",
+      "year": "1987",
+      "why": "A psychiatrist lets a con man pull her into his world of grifts, and each trick turns out to be part of a bigger one. David Mamet's cold, precise film about performance as a weapon, with an ending that bites."
+    },
+    {
+      "id": "tt7740496",
+      "name": "Nightmare Alley",
+      "year": "2021",
+      "why": "A drifter learns the carnival mentalist act and takes it into high society, posing as a real psychic until the role destroys him. Del Toro's noir is a slow tightening toward a brutal, perfectly set-up ending."
+    },
+    {
+      "id": "tt0086984",
+      "name": "Body Double",
+      "year": "1984",
+      "why": "An out-of-work actor is drawn into voyeurism and witnesses a murder that may have been staged for him. Brian De Palma's twisty thriller about performers, setups and roles played for real."
+    },
+    {
+      "id": "tt0052357",
+      "name": "Vertigo",
+      "year": "1958",
+      "why": "A detective obsessed with a dead woman remakes a lookalike in her image, not knowing who is really playing whom. Hitchcock's darkest study of doubles, impersonation and obsession."
+    },
+    {
+      "id": "tt0060827",
+      "name": "Persona",
+      "year": "1967",
+      "why": "A nurse caring for an actress who has stopped speaking finds their identities starting to merge. Bergman's short, unsettling and controlled film is the template for every story about one self taking over another."
+    },
+    {
+      "id": "tt2076220",
+      "name": "Holy Motors",
+      "year": "2012",
+      "why": "A man rides through Paris in a limousine all day, taking on 'appointments' as a killer, a beggar, a father and a monster, with no audience in sight. Leos Carax's strange tribute to acting as something lived for real."
+    },
+    {
+      "id": "tt0070698",
+      "name": "Sisters",
+      "year": "1973",
+      "why": "A reporter sees a murder through a window, and the trail leads to a model and her separated conjoined twin. De Palma's early thriller is lurid on the surface but built with real control and a nasty sting."
+    },
+    {
+      "id": "tt1148204",
+      "name": "Orphan",
+      "year": "2009",
+      "why": "A grieving couple adopts a poised, unsettling girl who is not what she seems at all. A well-made impostor horror film whose twist reframes everything before it."
+    },
+    {
+      "id": "tt0094035",
+      "name": "The Stepfather",
+      "year": "1987",
+      "why": "A perfect suburban dad is really a killer who keeps wiping out families and starting over under a new name. Terry O'Quinn's calm, smiling performance as a man playing 'father' as a role makes this a sharp B-thriller."
     }
   ],
   "series": [
