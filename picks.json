@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -190,12 +190,6 @@
   ],
   "deadpan": [
     {
-      "id": "tt3011894",
-      "name": "Wild Tales",
-      "year": "2014",
-      "why": "An Argentine anthology of six stories in which ordinary people pushed by small slights escalate to wrecked cars, poison and a wedding that turns into a massacre. It is pitch-black and very funny, and every story ends on a sharp punchline."
-    },
-    {
       "id": "tt4995790",
       "name": "The Square",
       "year": "2017",
@@ -248,6 +242,12 @@
       "name": "I Care a Lot",
       "year": "2021",
       "why": "A legal guardian strips elderly wards of their assets, then picks the wrong victim. A smiling villain running a monstrous scam as routine business."
+    },
+    {
+      "id": "tt0041546",
+      "name": "Kind Hearts and Coronets",
+      "year": "1949",
+      "why": "A disinherited heir politely murders his way up the line of succession, and Alec Guinness plays all eight of the relatives in the way. It's the classic dark comedy of a calm, well-mannered killer, with an ending that bites."
     }
   ],
   "deepcuts": [
