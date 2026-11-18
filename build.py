@@ -12,7 +12,7 @@ picks = json.loads((ROOT / "picks.json").read_text())
 
 manifest = {
     "id": "com.dylanconlin.picks",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "name": "Dylan's Picks",
     "description": "Movies and series picked for Dylan from his Stremio history, refreshed daily.",
     "resources": ["catalog"],
