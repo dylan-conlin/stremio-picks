@@ -9,46 +9,6 @@
       "description": "From your wanted list: now out in proper quality (Porrada 2026 WEB-DL 1080p x264 DUAL 5.1)."
     },
     {
-      "id": "tt0416320",
-      "type": "movie",
-      "name": "Match Point",
-      "releaseInfo": "2006",
-      "poster": "https://images.metahub.space/poster/medium/tt0416320/img",
-      "description": "An ambitious tennis instructor marries into London money, and he is ready to do something monstrous to keep it. Woody Allen's darkest film plays it straight, and its ending is morally sickening."
-    },
-    {
-      "id": "tt1588170",
-      "type": "movie",
-      "name": "I Saw the Devil",
-      "releaseInfo": "2010",
-      "poster": "https://images.metahub.space/poster/medium/tt1588170/img",
-      "description": "A secret agent hunts the serial killer who murdered his fiancée, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
-    },
-    {
-      "id": "tt1614989",
-      "type": "movie",
-      "name": "Headhunters",
-      "releaseInfo": "2011",
-      "poster": "https://images.metahub.space/poster/medium/tt1614989/img",
-      "description": "A smug corporate recruiter who steals art on the side robs the wrong man, and the job becomes a hunt for his life. A tight, nasty Norwegian thriller that keeps getting worse for him, with a payoff that clicks into place."
-    },
-    {
-      "id": "tt2359024",
-      "type": "movie",
-      "name": "Blue Ruin",
-      "releaseInfo": "2014",
-      "poster": "https://images.metahub.space/poster/medium/tt2359024/img",
-      "description": "A drifter carries out a clumsy act of revenge and then has to deal with the family that comes after him. It's quiet and grim, and the violence is awkward and frightening, with every step making things worse."
-    },
-    {
-      "id": "tt4062536",
-      "type": "movie",
-      "name": "Green Room",
-      "releaseInfo": "2016",
-      "poster": "https://images.metahub.space/poster/medium/tt4062536/img",
-      "description": "A punk band sees a murder at a neo-Nazi bar and is trapped in the green room while the owners plan how to get rid of them. Jeremy Saulnier's siege thriller is relentless, with sudden violence and real stakes."
-    },
-    {
       "id": "tt4550098",
       "type": "movie",
       "name": "Nocturnal Animals",
@@ -79,6 +39,46 @@
       "releaseInfo": "2007",
       "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
       "description": "Fincher's obsessive serial-killer procedural, where the search eats the lives of the men running it. The basement scene is one of the most frightening sequences of its decade."
+    },
+    {
+      "id": "tt2866360",
+      "type": "movie",
+      "name": "Coherence",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt2866360/img",
+      "description": "At a dinner party on the night a comet passes, the friends start meeting other versions of themselves, and trust falls apart one door-knock at a time. It's a tight, low-budget puzzle about doubles, and the last twist keeps paying off long after it ends."
+    },
+    {
+      "id": "tt0117381",
+      "type": "movie",
+      "name": "Primal Fear",
+      "releaseInfo": "1996",
+      "poster": "https://images.metahub.space/poster/medium/tt0117381/img",
+      "description": "A slick defense lawyer takes on an altar boy accused of murdering an archbishop, and the case turns on a performance that may or may not be real. It builds steadily to one of the great last-minute reversals."
+    },
+    {
+      "id": "tt10365998",
+      "type": "movie",
+      "name": "Infinity Pool",
+      "releaseInfo": "2023",
+      "poster": "https://images.metahub.space/poster/medium/tt10365998/img",
+      "description": "On a resort island, rich tourists can pay to have a double executed for their crimes, and a struggling writer gets pulled into the game. Brandon Cronenberg makes it a cruel, hypnotic film about identity and impunity."
+    },
+    {
+      "id": "tt2053463",
+      "type": "movie",
+      "name": "Side Effects",
+      "releaseInfo": "2013",
+      "poster": "https://images.metahub.space/poster/medium/tt2053463/img",
+      "description": "A young woman on a new antidepressant commits a violent act, and her psychiatrist's life comes apart as he digs into what really happened. Soderbergh's cool, precise thriller keeps flipping who is performing for whom."
+    },
+    {
+      "id": "tt1682180",
+      "type": "movie",
+      "name": "Stoker",
+      "releaseInfo": "2013",
+      "poster": "https://images.metahub.space/poster/medium/tt1682180/img",
+      "description": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
     }
   ]
 }

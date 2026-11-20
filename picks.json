@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -8,36 +8,6 @@
       "year": 2026,
       "why": "From your wanted list: now out in proper quality (Porrada 2026 WEB-DL 1080p x264 DUAL 5.1).",
       "source": "wanted"
-    },
-    {
-      "id": "tt0416320",
-      "name": "Match Point",
-      "year": "2006",
-      "why": "An ambitious tennis instructor marries into London money, and he is ready to do something monstrous to keep it. Woody Allen's darkest film plays it straight, and its ending is morally sickening."
-    },
-    {
-      "id": "tt1588170",
-      "name": "I Saw the Devil",
-      "year": "2010",
-      "why": "A secret agent hunts the serial killer who murdered his fiancée, then lets him go so he can catch him again and make him suffer. Kim Jee-woon's revenge thriller keeps escalating and asks what the hunt turns the hunter into."
-    },
-    {
-      "id": "tt1614989",
-      "name": "Headhunters",
-      "year": "2011",
-      "why": "A smug corporate recruiter who steals art on the side robs the wrong man, and the job becomes a hunt for his life. A tight, nasty Norwegian thriller that keeps getting worse for him, with a payoff that clicks into place."
-    },
-    {
-      "id": "tt2359024",
-      "name": "Blue Ruin",
-      "year": "2014",
-      "why": "A drifter carries out a clumsy act of revenge and then has to deal with the family that comes after him. It's quiet and grim, and the violence is awkward and frightening, with every step making things worse."
-    },
-    {
-      "id": "tt4062536",
-      "name": "Green Room",
-      "year": "2016",
-      "why": "A punk band sees a murder at a neo-Nazi bar and is trapped in the green room while the owners plan how to get rid of them. Jeremy Saulnier's siege thriller is relentless, with sudden violence and real stakes."
     },
     {
       "id": "tt4550098",
@@ -62,6 +32,36 @@
       "name": "Zodiac",
       "year": "2007",
       "why": "Fincher's obsessive serial-killer procedural, where the search eats the lives of the men running it. The basement scene is one of the most frightening sequences of its decade."
+    },
+    {
+      "id": "tt2866360",
+      "name": "Coherence",
+      "year": "2014",
+      "why": "At a dinner party on the night a comet passes, the friends start meeting other versions of themselves, and trust falls apart one door-knock at a time. It's a tight, low-budget puzzle about doubles, and the last twist keeps paying off long after it ends."
+    },
+    {
+      "id": "tt0117381",
+      "name": "Primal Fear",
+      "year": "1996",
+      "why": "A slick defense lawyer takes on an altar boy accused of murdering an archbishop, and the case turns on a performance that may or may not be real. It builds steadily to one of the great last-minute reversals."
+    },
+    {
+      "id": "tt10365998",
+      "name": "Infinity Pool",
+      "year": "2023",
+      "why": "On a resort island, rich tourists can pay to have a double executed for their crimes, and a struggling writer gets pulled into the game. Brandon Cronenberg makes it a cruel, hypnotic film about identity and impunity."
+    },
+    {
+      "id": "tt2053463",
+      "name": "Side Effects",
+      "year": "2013",
+      "why": "A young woman on a new antidepressant commits a violent act, and her psychiatrist's life comes apart as he digs into what really happened. Soderbergh's cool, precise thriller keeps flipping who is performing for whom."
+    },
+    {
+      "id": "tt1682180",
+      "name": "Stoker",
+      "year": "2013",
+      "why": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
     }
   ],
   "new": [
@@ -128,12 +128,6 @@
   ],
   "dread": [
     {
-      "id": "tt4291600",
-      "name": "Lady Macbeth",
-      "year": "2017",
-      "why": "A young woman sold into a loveless marriage in rural 19th-century England starts an affair and then kills to protect it. It's cold, spare and quietly vicious, and it ends on a chilling note."
-    },
-    {
       "id": "tt0310775",
       "name": "Sympathy for Mr. Vengeance",
       "year": "2002",
@@ -186,15 +180,15 @@
       "name": "Blood Simple",
       "year": "1985",
       "why": "The Coens' debut: a jealous bar owner hires a sleazy detective to kill his wife, and every double-cross makes it worse."
+    },
+    {
+      "id": "tt5215952",
+      "name": "The Wailing",
+      "year": "2016",
+      "why": "A bumbling village cop in South Korea investigates a spreading sickness and a mysterious stranger, and his family is soon at stake. It's genuinely frightening, keeps escalating, and is impossible to second-guess."
     }
   ],
   "deadpan": [
-    {
-      "id": "tt4995790",
-      "name": "The Square",
-      "year": "2017",
-      "why": "A polished museum curator's life comes apart after a stolen phone and a viral marketing stunt that goes too far. Ruben Östlund's satire stays bone-dry while respectable people calmly watch things get ugly."
-    },
     {
       "id": "tt7322224",
       "name": "Triangle of Sadness",
@@ -248,6 +242,12 @@
       "name": "Kind Hearts and Coronets",
       "year": "1949",
       "why": "A disinherited heir politely murders his way up the line of succession, and Alec Guinness plays all eight of the relatives in the way. It's the classic dark comedy of a calm, well-mannered killer, with an ending that bites."
+    },
+    {
+      "id": "tt0111149",
+      "name": "Shallow Grave",
+      "year": "1995",
+      "why": "Three smug Edinburgh flatmates find their new lodger dead beside a suitcase of cash, and calmly decide to keep the money and lose the body. Danny Boyle's first film is pitch-black, funny and cruel, with a perfect last turn."
     }
   ],
   "deepcuts": [
