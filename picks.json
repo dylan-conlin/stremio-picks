@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -376,12 +376,6 @@
   ],
   "series": [
     {
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "year": "2025–",
-      "why": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
-    },
-    {
       "id": "tt2401256",
       "name": "The Night Of",
       "year": "2016",
@@ -422,6 +416,12 @@
       "name": "True Detective",
       "year": "2014–",
       "why": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
+    },
+    {
+      "id": "tt31036715",
+      "name": "Malice",
+      "year": "2025–",
+      "why": "A charming young man works his way into a wealthy family's holiday home as a tutor, and his real motive slowly comes into focus. It is a con-man revenge thriller about a performance played for real, with dread that builds toward a reckoning."
     }
   ]
 }

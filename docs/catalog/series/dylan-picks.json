@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt22202452",
-      "type": "series",
-      "name": "Pluribus",
-      "releaseInfo": "2025–",
-      "poster": "https://images.metahub.space/poster/medium/tt22202452/img",
-      "description": "Vince Gilligan's tightly controlled sci-fi series about one bitter woman who stays immune when the rest of humanity is calmly absorbed into forced happiness. The menace builds every episode, and the dark humor is bone-dry."
-    },
-    {
       "id": "tt2401256",
       "type": "series",
       "name": "The Night Of",
@@ -63,6 +55,14 @@
       "releaseInfo": "2014–",
       "poster": "https://images.metahub.space/poster/medium/tt2356777/img",
       "description": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
+    },
+    {
+      "id": "tt31036715",
+      "type": "series",
+      "name": "Malice",
+      "releaseInfo": "2025–",
+      "poster": "https://images.metahub.space/poster/medium/tt31036715/img",
+      "description": "A charming young man works his way into a wealthy family's holiday home as a tutor, and his real motive slowly comes into focus. It is a con-man revenge thriller about a performance played for real, with dread that builds toward a reckoning."
     }
   ]
 }
