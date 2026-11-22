@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt45368240",
-      "type": "movie",
-      "name": "You Can See Everything",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt45368240/img",
-      "description": "From your wanted list: now out in proper quality (Porrada 2026 WEB-DL 1080p x264 DUAL 5.1)."
-    },
-    {
       "id": "tt4550098",
       "type": "movie",
       "name": "Nocturnal Animals",
@@ -79,6 +71,14 @@
       "releaseInfo": "2013",
       "poster": "https://images.metahub.space/poster/medium/tt1682180/img",
       "description": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
+    },
+    {
+      "id": "tt0156887",
+      "type": "movie",
+      "name": "Perfect Blue",
+      "releaseInfo": "1998",
+      "poster": "https://images.metahub.space/poster/medium/tt0156887/img",
+      "description": "Satoshi Kon's animated psychological thriller follows a pop idol turned actress who is stalked by a doppelgänger of her old self, as the role she plays seeps into her real life. It is tightly controlled, frightening, and leaves a puzzle to piece together afterward."
     }
   ]
 }

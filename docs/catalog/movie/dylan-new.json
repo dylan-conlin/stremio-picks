@@ -17,14 +17,6 @@
       "description": "A devout hitman races across Houston to protect his children after his wife dies. A tense crime drama about a violent man whose beliefs are coming apart."
     },
     {
-      "id": "tt36586020",
-      "type": "movie",
-      "name": "Other Mommy",
-      "releaseInfo": "2026",
-      "poster": "https://images.metahub.space/poster/medium/tt36586020/img",
-      "description": "A girl in a home torn by her parents' marriage meets a sinister presence from her closet that calls itself Other Mommy. Domestic horror where the family drama feeds the threat."
-    },
-    {
       "id": "tt34886821",
       "type": "movie",
       "name": "La Grazia",
@@ -79,6 +71,14 @@
       "releaseInfo": "2025",
       "poster": "https://images.metahub.space/poster/medium/tt29567915/img",
       "description": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
+    },
+    {
+      "id": "tt38213251",
+      "type": "movie",
+      "name": "Heartland",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt38213251/img",
+      "description": "A reclusive former country star comes out of hiding to look for her missing niece in Nashville and uncovers dark secrets tied to her own past. A missing-person mystery where every lead points back to the family."
     }
   ]
 }

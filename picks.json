@@ -1,14 +1,7 @@
 {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
-    {
-      "id": "tt45368240",
-      "name": "You Can See Everything",
-      "year": 2026,
-      "why": "From your wanted list: now out in proper quality (Porrada 2026 WEB-DL 1080p x264 DUAL 5.1).",
-      "source": "wanted"
-    },
     {
       "id": "tt4550098",
       "name": "Nocturnal Animals",
@@ -62,6 +55,12 @@
       "name": "Stoker",
       "year": "2013",
       "why": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
+    },
+    {
+      "id": "tt0156887",
+      "name": "Perfect Blue",
+      "year": "1998",
+      "why": "Satoshi Kon's animated psychological thriller follows a pop idol turned actress who is stalked by a doppelgänger of her old self, as the role she plays seeps into her real life. It is tightly controlled, frightening, and leaves a puzzle to piece together afterward."
     }
   ],
   "new": [
@@ -76,12 +75,6 @@
       "name": "Your Mother Your Mother Your Mother",
       "year": "2026",
       "why": "A devout hitman races across Houston to protect his children after his wife dies. A tense crime drama about a violent man whose beliefs are coming apart."
-    },
-    {
-      "id": "tt36586020",
-      "name": "Other Mommy",
-      "year": "2026",
-      "why": "A girl in a home torn by her parents' marriage meets a sinister presence from her closet that calls itself Other Mommy. Domestic horror where the family drama feeds the threat."
     },
     {
       "id": "tt34886821",
@@ -124,6 +117,12 @@
       "name": "Nuremberg",
       "year": "2025",
       "why": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
+    },
+    {
+      "id": "tt38213251",
+      "name": "Heartland",
+      "year": "2026",
+      "why": "A reclusive former country star comes out of hiding to look for her missing niece in Nashville and uncovers dark secrets tied to her own past. A missing-person mystery where every lead points back to the family."
     }
   ],
   "dread": [
