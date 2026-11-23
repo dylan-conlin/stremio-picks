@@ -1,70 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt7322224",
-      "type": "movie",
-      "name": "Triangle of Sadness",
-      "releaseInfo": "2022",
-      "poster": "https://images.metahub.space/poster/medium/tt7322224/img",
-      "description": "Östlund's satire of models and the ultra-rich on a luxury cruise that goes very wrong. Cool, merciless and played completely straight."
-    },
-    {
-      "id": "tt0085794",
-      "type": "movie",
-      "name": "The King of Comedy",
-      "releaseInfo": "1982",
-      "poster": "https://images.metahub.space/poster/medium/tt0085794/img",
-      "description": "A delusional would-be comic kidnaps a talk-show host to get his shot. Scorsese plays the horror as calm, sad comedy."
-    },
-    {
-      "id": "tt4686844",
-      "type": "movie",
-      "name": "The Death of Stalin",
-      "releaseInfo": "2018",
-      "poster": "https://images.metahub.space/poster/medium/tt4686844/img",
-      "description": "Stalin's inner circle scrambles for power over his corpse while the purges go on. Very funny and genuinely monstrous."
-    },
-    {
-      "id": "tt5962210",
-      "type": "movie",
-      "name": "Ingrid Goes West",
-      "releaseInfo": "2017",
-      "poster": "https://images.metahub.space/poster/medium/tt5962210/img",
-      "description": "An unstable woman moves to LA to insert herself into an influencer's life. Pitch-dark social media satire that never winks."
-    },
-    {
-      "id": "tt21942866",
-      "type": "movie",
-      "name": "Dream Scenario",
-      "releaseInfo": "2023",
-      "poster": "https://images.metahub.space/poster/medium/tt21942866/img",
-      "description": "A dull professor starts appearing in millions of strangers' dreams, and fame curdles into a mob. Nicolas Cage plays it bone-dry."
-    },
-    {
-      "id": "tt0114906",
-      "type": "movie",
-      "name": "Welcome to the Dollhouse",
-      "releaseInfo": "1995",
-      "poster": "https://images.metahub.space/poster/medium/tt0114906/img",
-      "description": "Solondz's portrait of a bullied seventh-grader in a cruel suburban family. Deadpan and uncomfortable, and the humiliations are presented with a straight face."
-    },
-    {
-      "id": "tt1625346",
-      "type": "movie",
-      "name": "Young Adult",
-      "releaseInfo": "2011",
-      "poster": "https://images.metahub.space/poster/medium/tt1625346/img",
-      "description": "A ghostwriter of teen novels returns to her hometown to steal back her married high-school boyfriend. A calmly awful protagonist and a refusal to redeem her."
-    },
-    {
-      "id": "tt9893250",
-      "type": "movie",
-      "name": "I Care a Lot",
-      "releaseInfo": "2021",
-      "poster": "https://images.metahub.space/poster/medium/tt9893250/img",
-      "description": "A legal guardian strips elderly wards of their assets, then picks the wrong victim. A smiling villain running a monstrous scam as routine business."
-    },
-    {
       "id": "tt0041546",
       "type": "movie",
       "name": "Kind Hearts and Coronets",
@@ -79,6 +15,70 @@
       "releaseInfo": "1995",
       "poster": "https://images.metahub.space/poster/medium/tt0111149/img",
       "description": "Three smug Edinburgh flatmates find their new lodger dead beside a suitcase of cash, and calmly decide to keep the money and lose the body. Danny Boyle's first film is pitch-black, funny and cruel, with a perfect last turn."
+    },
+    {
+      "id": "tt0243133",
+      "type": "movie",
+      "name": "The Man Who Wasn't There",
+      "releaseInfo": "2001",
+      "poster": "https://images.metahub.space/poster/medium/tt0243133/img",
+      "description": "A taciturn barber's blackmail scheme leads to murder and he barely blinks. The Coens' deadpan noir in black and white."
+    },
+    {
+      "id": "tt8206668",
+      "type": "movie",
+      "name": "Bad Education",
+      "releaseInfo": "2020",
+      "poster": "https://images.metahub.space/poster/medium/tt8206668/img",
+      "description": "A beloved school superintendent is quietly at the center of a massive embezzlement scandal. True-life fraud played with a straight face, and Hugh Jackman never drops the act."
+    },
+    {
+      "id": "tt1726669",
+      "type": "movie",
+      "name": "Killer Joe",
+      "releaseInfo": "2012",
+      "poster": "https://images.metahub.space/poster/medium/tt1726669/img",
+      "description": "A broke family hires a cop who moonlights as a hitman, and offers their daughter as his retainer. A vicious Southern noir comedy with a notorious finale."
+    },
+    {
+      "id": "tt0114594",
+      "type": "movie",
+      "name": "Swimming with Sharks",
+      "releaseInfo": "1995",
+      "poster": "https://images.metahub.space/poster/medium/tt0114594/img",
+      "description": "A Hollywood assistant takes his abusive studio boss hostage. A bitter satire that ends with a cold twist."
+    },
+    {
+      "id": "tt0144084",
+      "type": "movie",
+      "name": "American Psycho",
+      "releaseInfo": "2000",
+      "poster": "https://images.metahub.space/poster/medium/tt0144084/img",
+      "description": "A Wall Street yuppie confesses his murders to people who can't tell him apart from anyone else. A satire of masks and conformity played completely straight."
+    },
+    {
+      "id": "tt2234003",
+      "type": "movie",
+      "name": "Calvary",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt2234003/img",
+      "description": "In confession, a priest is told he will be killed in a week for another man's sins. Bleak Irish gallows humor building to a reckoning."
+    },
+    {
+      "id": "tt11655202",
+      "type": "movie",
+      "name": "Riders of Justice",
+      "releaseInfo": "2021",
+      "poster": "https://images.metahub.space/poster/medium/tt11655202/img",
+      "description": "A grieving soldier and a trio of statistics nerds calmly set out to avenge a train crash. A Danish revenge comedy, darker and stranger than it sounds."
+    },
+    {
+      "id": "tt2675914",
+      "type": "movie",
+      "name": "In Order of Disappearance",
+      "releaseInfo": "2014",
+      "poster": "https://images.metahub.space/poster/medium/tt2675914/img",
+      "description": "A stoic snowplow driver works through a drug gang to avenge his son. Norwegian deadpan, with the body count kept like a ledger."
     }
   ]
 }

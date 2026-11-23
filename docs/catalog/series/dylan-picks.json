@@ -1,68 +1,68 @@
 {
   "metas": [
     {
-      "id": "tt2401256",
-      "type": "series",
-      "name": "The Night Of",
-      "releaseInfo": "2016",
-      "poster": "https://images.metahub.space/poster/medium/tt2401256/img",
-      "description": "A college student wakes beside a murdered woman and is swallowed by the justice system. Tight and grim, and every episode tightens the vise."
-    },
-    {
-      "id": "tt11016042",
-      "type": "series",
-      "name": "Ripley",
-      "releaseInfo": "2024",
-      "poster": "https://images.metahub.space/poster/medium/tt11016042/img",
-      "description": "Steven Zaillian's black-and-white Highsmith adaptation of a con man who murders his way into a rich man's life. Cold, precise and patient."
-    },
-    {
-      "id": "tt10155688",
-      "type": "series",
-      "name": "Mare of Easttown",
-      "releaseInfo": "2021",
-      "poster": "https://images.metahub.space/poster/medium/tt10155688/img",
-      "description": "A worn-out small-town detective investigates a teenage mother's murder while her own life falls apart. Each episode lands a turn, and the ending is excellent."
-    },
-    {
-      "id": "tt3428912",
-      "type": "series",
-      "name": "Happy Valley",
-      "releaseInfo": "2014–2023",
-      "poster": "https://images.metahub.space/poster/medium/tt3428912/img",
-      "description": "A Yorkshire police sergeant crosses paths again with the man who destroyed her family. Brutal, smart and very hard to stop watching."
-    },
-    {
-      "id": "tt6048596",
-      "type": "series",
-      "name": "The Sinner",
-      "releaseInfo": "2017–2021",
-      "poster": "https://images.metahub.space/poster/medium/tt6048596/img",
-      "description": "A young mother stabs a stranger to death on a beach and has no idea why. Each season peels back a buried trauma."
-    },
-    {
-      "id": "tt3920596",
-      "type": "series",
-      "name": "Big Little Lies",
-      "releaseInfo": "2017–2026",
-      "poster": "https://images.metahub.space/poster/medium/tt3920596/img",
-      "description": "A murder at a school fundraiser in wealthy Monterey, told through the mothers lying to each other. Glossy, cruel and well paced."
-    },
-    {
-      "id": "tt2356777",
-      "type": "series",
-      "name": "True Detective",
-      "releaseInfo": "2014–",
-      "poster": "https://images.metahub.space/poster/medium/tt2356777/img",
-      "description": "Two Louisiana detectives chase a ritualistic killer across 17 years. The first season is a slow-burn crime story with real dread."
-    },
-    {
       "id": "tt31036715",
       "type": "series",
       "name": "Malice",
       "releaseInfo": "2025–",
       "poster": "https://images.metahub.space/poster/medium/tt31036715/img",
       "description": "A charming young man works his way into a wealthy family's holiday home as a tutor, and his real motive slowly comes into focus. It is a con-man revenge thriller about a performance played for real, with dread that builds toward a reckoning."
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "releaseInfo": "2022–",
+      "poster": "https://images.metahub.space/poster/medium/tt11280740/img",
+      "description": "Office workers surgically split their work selves from their home selves, and the doubles start to rebel. Precise, eerie, and every episode ends on a hook."
+    },
+    {
+      "id": "tt5348176",
+      "type": "series",
+      "name": "Barry",
+      "releaseInfo": "2018–2023",
+      "poster": "https://images.metahub.space/poster/medium/tt5348176/img",
+      "description": "A hitman takes up acting, and his roles and his murders start to bleed together. Pitch-black comedy that grows darker every season."
+    },
+    {
+      "id": "tt36996011",
+      "type": "series",
+      "name": "Mousetrap",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt36996011/img",
+      "description": "A reclusive writer wakes up to find a man called The Rat living his life, and allies with a loan shark to get it back. An identity-theft thriller."
+    },
+    {
+      "id": "tt8550800",
+      "type": "series",
+      "name": "The Outsider",
+      "releaseInfo": "2020",
+      "poster": "https://images.metahub.space/poster/medium/tt8550800/img",
+      "description": "A beloved coach is arrested for a child's murder despite proof that he was elsewhere, and a double is at work. Grim, slow-burn horror procedural."
+    },
+    {
+      "id": "tt2674806",
+      "type": "series",
+      "name": "Inside No. 9",
+      "releaseInfo": "2014–2024",
+      "poster": "https://images.metahub.space/poster/medium/tt2674806/img",
+      "description": "A British anthology of half-hour dark tales, each with a vicious final twist. Deadpan, cruel and very bingeable."
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "releaseInfo": "2024–",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "description": "A physicist is abducted into an alternate version of his life while his double takes over his family. A doppelgänger thriller with momentum."
+    },
+    {
+      "id": "tt2243973",
+      "type": "series",
+      "name": "Hannibal",
+      "releaseInfo": "2013–2015",
+      "poster": "https://images.metahub.space/poster/medium/tt2243973/img",
+      "description": "An FBI profiler and his psychiatrist, secretly a cannibal, are locked in an elegant battle of minds. Stylish, cruel and precise."
     }
   ]
 }

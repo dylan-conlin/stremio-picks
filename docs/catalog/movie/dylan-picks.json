@@ -1,38 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt4550098",
-      "type": "movie",
-      "name": "Nocturnal Animals",
-      "releaseInfo": "2016",
-      "poster": "https://images.metahub.space/poster/medium/tt4550098/img",
-      "description": "An art dealer reads her ex-husband's brutal novel, and the story bleeds into her own guilt. Tom Ford controls every frame, the menace keeps rising and the revenge ending is cold."
-    },
-    {
-      "id": "tt3716530",
-      "type": "movie",
-      "name": "Elle",
-      "releaseInfo": "2016",
-      "poster": "https://images.metahub.space/poster/medium/tt3716530/img",
-      "description": "Verhoeven's thriller about a game-company boss who responds to an assault in ways no one expects. Darkly funny, deeply uncomfortable and completely controlled."
-    },
-    {
-      "id": "tt0120324",
-      "type": "movie",
-      "name": "A Simple Plan",
-      "releaseInfo": "1999",
-      "poster": "https://images.metahub.space/poster/medium/tt0120324/img",
-      "description": "Three ordinary men find a crashed plane full of cash, and keeping it turns decent people into killers one reasonable step at a time. Sam Raimi's most precise film."
-    },
-    {
-      "id": "tt0443706",
-      "type": "movie",
-      "name": "Zodiac",
-      "releaseInfo": "2007",
-      "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
-      "description": "Fincher's obsessive serial-killer procedural, where the search eats the lives of the men running it. The basement scene is one of the most frightening sequences of its decade."
-    },
-    {
       "id": "tt2866360",
       "type": "movie",
       "name": "Coherence",
@@ -79,6 +47,38 @@
       "releaseInfo": "1998",
       "poster": "https://images.metahub.space/poster/medium/tt0156887/img",
       "description": "Satoshi Kon's animated psychological thriller follows a pop idol turned actress who is stalked by a doppelgänger of her old self, as the role she plays seeps into her real life. It is tightly controlled, frightening, and leaves a puzzle to piece together afterward."
+    },
+    {
+      "id": "tt0482571",
+      "type": "movie",
+      "name": "The Prestige",
+      "releaseInfo": "2006",
+      "poster": "https://images.metahub.space/poster/medium/tt0482571/img",
+      "description": "Two rival stage magicians wreck each other's lives chasing the perfect illusion. It's a film about doubles and performers who live their act for real, and its final reveal changes everything before it."
+    },
+    {
+      "id": "tt0119174",
+      "type": "movie",
+      "name": "The Game",
+      "releaseInfo": "1997",
+      "poster": "https://images.metahub.space/poster/medium/tt0119174/img",
+      "description": "Fincher's paranoid thriller about a rich man pulled into a staged 'game' that may be a con, a murder plot or both. Everyone around him might be an actor, and the screws tighten all the way to the end."
+    },
+    {
+      "id": "tt0137363",
+      "type": "movie",
+      "name": "Arlington Road",
+      "releaseInfo": "1999",
+      "poster": "https://images.metahub.space/poster/medium/tt0137363/img",
+      "description": "A widower comes to suspect that his friendly new neighbors are not who they seem. A tight paranoid thriller with one of the most merciless endings of its decade."
+    },
+    {
+      "id": "tt27403986",
+      "type": "movie",
+      "name": "Juror #2",
+      "releaseInfo": "2024",
+      "poster": "https://images.metahub.space/poster/medium/tt27403986/img",
+      "description": "An ordinary man on a murder jury realizes he may be responsible for the death being tried and calmly weighs whether to let someone else pay. A taut moral thriller with a cold, precise finish."
     }
   ]
 }
