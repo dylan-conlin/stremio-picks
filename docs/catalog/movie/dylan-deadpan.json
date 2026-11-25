@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0041546",
-      "type": "movie",
-      "name": "Kind Hearts and Coronets",
-      "releaseInfo": "1949",
-      "poster": "https://images.metahub.space/poster/medium/tt0041546/img",
-      "description": "A disinherited heir politely murders his way up the line of succession, and Alec Guinness plays all eight of the relatives in the way. It's the classic dark comedy of a calm, well-mannered killer, with an ending that bites."
-    },
-    {
       "id": "tt0111149",
       "type": "movie",
       "name": "Shallow Grave",
@@ -79,6 +71,14 @@
       "releaseInfo": "2014",
       "poster": "https://images.metahub.space/poster/medium/tt2675914/img",
       "description": "A stoic snowplow driver works through a drug gang to avenge his son. Norwegian deadpan, with the body count kept like a ledger."
+    },
+    {
+      "id": "tt11813216",
+      "type": "movie",
+      "name": "The Banshees of Inisherin",
+      "releaseInfo": "2022",
+      "poster": "https://images.metahub.space/poster/medium/tt11813216/img",
+      "description": "On a remote Irish island, one man abruptly ends a friendship and backs it up with a horrifying threat that he fully means. The comedy is bleak and deadpan, and the pettiness escalates into self-mutilation and arson."
     }
   ]
 }

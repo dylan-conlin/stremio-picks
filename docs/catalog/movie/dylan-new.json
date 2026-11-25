@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt29567915",
-      "type": "movie",
-      "name": "Nuremberg",
-      "releaseInfo": "2025",
-      "poster": "https://images.metahub.space/poster/medium/tt29567915/img",
-      "description": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
-    },
-    {
       "id": "tt38213251",
       "type": "movie",
       "name": "Heartland",
@@ -79,6 +71,14 @@
       "releaseInfo": "2026",
       "poster": "https://images.metahub.space/poster/medium/tt13611778/img",
       "description": "A decorated combat veteran is fleeing a murder scene at 130 miles an hour. Pure propulsive pulp."
+    },
+    {
+      "id": "tt35410859",
+      "type": "movie",
+      "name": "Fjord",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt35410859/img",
+      "description": "Cristian Mungiu sets a Romanian immigrant family in Norway against a child-welfare investigation. The precise, slow-tightening drama turns the scrutiny of decent institutions into something quietly menacing."
     }
   ]
 }

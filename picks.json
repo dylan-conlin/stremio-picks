@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23",
+  "generated": "2026-11-25",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -65,12 +65,6 @@
   ],
   "new": [
     {
-      "id": "tt29567915",
-      "name": "Nuremberg",
-      "year": "2025",
-      "why": "Before the Nuremberg trials, an army psychiatrist examines Hermann Göring and gets pulled into an uneasy bond with him while trying to understand evil. A tense two-hander about a monster who is charming, calm and very persuasive."
-    },
-    {
       "id": "tt38213251",
       "name": "Heartland",
       "year": "2026",
@@ -123,6 +117,12 @@
       "name": "The Mongoose",
       "year": "2026",
       "why": "A decorated combat veteran is fleeing a murder scene at 130 miles an hour. Pure propulsive pulp."
+    },
+    {
+      "id": "tt35410859",
+      "name": "Fjord",
+      "year": "2026",
+      "why": "Cristian Mungiu sets a Romanian immigrant family in Norway against a child-welfare investigation. The precise, slow-tightening drama turns the scrutiny of decent institutions into something quietly menacing."
     }
   ],
   "dread": [
@@ -189,12 +189,6 @@
   ],
   "deadpan": [
     {
-      "id": "tt0041546",
-      "name": "Kind Hearts and Coronets",
-      "year": "1949",
-      "why": "A disinherited heir politely murders his way up the line of succession, and Alec Guinness plays all eight of the relatives in the way. It's the classic dark comedy of a calm, well-mannered killer, with an ending that bites."
-    },
-    {
       "id": "tt0111149",
       "name": "Shallow Grave",
       "year": "1995",
@@ -247,6 +241,12 @@
       "name": "In Order of Disappearance",
       "year": "2014",
       "why": "A stoic snowplow driver works through a drug gang to avenge his son. Norwegian deadpan, with the body count kept like a ledger."
+    },
+    {
+      "id": "tt11813216",
+      "name": "The Banshees of Inisherin",
+      "year": "2022",
+      "why": "On a remote Irish island, one man abruptly ends a friendship and backs it up with a horrifying threat that he fully means. The comedy is bleak and deadpan, and the pettiness escalates into self-mutilation and arson."
     }
   ],
   "deepcuts": [
@@ -313,64 +313,64 @@
   ],
   "doubles": [
     {
-      "id": "tt1825157",
-      "name": "The Double",
-      "year": "2014",
-      "why": "A timid office clerk watches his exact double, who is confident and ruthless, take over his job, his crush and his life. Richard Ayoade's dark doppelgänger comedy is dry, airless and steadily menacing."
+      "id": "tt6857112",
+      "name": "Us",
+      "year": "2019",
+      "why": "A family on a beach vacation is attacked by their own doppelgängers, and the horror grows into a twisted allegory about who gets to live which life. The final reveal changes everything that came before."
     },
     {
-      "id": "tt0093223",
-      "name": "House of Games",
-      "year": "1987",
-      "why": "A psychiatrist lets a con man pull her into his world of grifts, and each trick turns out to be part of a bigger one. David Mamet's cold, precise film about performance as a weapon, with an ending that bites."
+      "id": "tt0166924",
+      "name": "Mulholland Drive",
+      "year": "2001",
+      "why": "An aspiring actress and an amnesiac woman try to work out the amnesiac's identity in Los Angeles, until their roles invert and the dream sours. It's David Lynch's ultimate puzzle film about performance and stolen identity."
     },
     {
-      "id": "tt7740496",
-      "name": "Nightmare Alley",
-      "year": "2021",
-      "why": "A drifter learns the carnival mentalist act and takes it into high society, posing as a real psychic until the role destroys him. Del Toro's noir is a slow tightening toward a brutal, perfectly set-up ending."
+      "id": "tt0116922",
+      "name": "Lost Highway",
+      "year": "1997",
+      "why": "A jazz saxophonist accused of murdering his wife inexplicably turns into another man entirely. Lynch's noir about split identities runs on dread, and its loop structure begs to be decoded."
     },
     {
-      "id": "tt0086984",
-      "name": "Body Double",
-      "year": "1984",
-      "why": "An out-of-work actor is drawn into voyeurism and witnesses a murder that may have been staged for him. Brian De Palma's twisty thriller about performers, setups and roles played for real."
-    },
-    {
-      "id": "tt0052357",
-      "name": "Vertigo",
-      "year": "1958",
-      "why": "A detective obsessed with a dead woman remakes a lookalike in her image, not knowing who is really playing whom. Hitchcock's darkest study of doubles, impersonation and obsession."
-    },
-    {
-      "id": "tt0060827",
-      "name": "Persona",
-      "year": "1967",
-      "why": "A nurse caring for an actress who has stopped speaking finds their identities starting to merge. Bergman's short, unsettling and controlled film is the template for every story about one self taking over another."
-    },
-    {
-      "id": "tt2076220",
-      "name": "Holy Motors",
-      "year": "2012",
-      "why": "A man rides through Paris in a limousine all day, taking on 'appointments' as a killer, a beggar, a father and a monster, with no audience in sight. Leos Carax's strange tribute to acting as something lived for real."
-    },
-    {
-      "id": "tt0070698",
-      "name": "Sisters",
-      "year": "1973",
-      "why": "A reporter sees a murder through a window, and the trail leads to a model and her separated conjoined twin. De Palma's early thriller is lurid on the surface but built with real control and a nasty sting."
-    },
-    {
-      "id": "tt1148204",
-      "name": "Orphan",
+      "id": "tt1187064",
+      "name": "Triangle",
       "year": "2009",
-      "why": "A grieving couple adopts a poised, unsettling girl who is not what she seems at all. A well-made impostor horror film whose twist reframes everything before it."
+      "why": "Yachting friends board a deserted ocean liner, and one woman begins running into versions of herself. It's a tightly plotted loop thriller where each double reveals something worse."
     },
     {
-      "id": "tt0094035",
-      "name": "The Stepfather",
-      "year": "1987",
-      "why": "A perfect suburban dad is really a killer who keeps wiping out families and starting over under a new name. Terry O'Quinn's calm, smiling performance as a man playing 'father' as a role makes this a sharp B-thriller."
+      "id": "tt0082933",
+      "name": "Possession",
+      "year": "1983",
+      "why": "A Berlin marriage disintegrates, and the husband finds a calm, angelic double of his wife while she spirals into something monstrous. Andrzej Żuławski's ferocious film is unlike anything else."
+    },
+    {
+      "id": "tt0323944",
+      "name": "Shattered Glass",
+      "year": "2003",
+      "why": "A charming young journalist at The New Republic turns out to have invented dozens of his stories. The film is a gripping true account of a compulsive impostor whose performance collapses one fact-check at a time."
+    },
+    {
+      "id": "tt0947798",
+      "name": "Black Swan",
+      "year": "2010",
+      "why": "A ballerina cast as both the White and the Black Swan is consumed by the role and by a rival who seems to be her dark double. Darren Aronofsky's psychological horror is about performance swallowing a person."
+    },
+    {
+      "id": "tt1182345",
+      "name": "Moon",
+      "year": "2009",
+      "why": "Near the end of a three-year solo contract on a lunar mining base, a worker meets a man who is exactly him. It's a quiet, tense sci-fi mystery about identity and corporate cruelty."
+    },
+    {
+      "id": "tt0824747",
+      "name": "Changeling",
+      "year": "2008",
+      "why": "In 1928 Los Angeles, police return a mother's missing son, and she insists the boy is not him. Clint Eastwood's true-story thriller is an impostor case wrapped in institutional cruelty."
+    },
+    {
+      "id": "tt0120176",
+      "name": "The Spanish Prisoner",
+      "year": "1998",
+      "why": "An inventor with a valuable secret is lured into an elaborate con in which everyone around him may be playing a part. David Mamet's precise puzzle-box thriller keeps pulling the rug away."
     }
   ],
   "series": [
