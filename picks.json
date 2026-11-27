@@ -1,37 +1,7 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
-    {
-      "id": "tt2866360",
-      "name": "Coherence",
-      "year": "2014",
-      "why": "At a dinner party on the night a comet passes, the friends start meeting other versions of themselves, and trust falls apart one door-knock at a time. It's a tight, low-budget puzzle about doubles, and the last twist keeps paying off long after it ends."
-    },
-    {
-      "id": "tt0117381",
-      "name": "Primal Fear",
-      "year": "1996",
-      "why": "A slick defense lawyer takes on an altar boy accused of murdering an archbishop, and the case turns on a performance that may or may not be real. It builds steadily to one of the great last-minute reversals."
-    },
-    {
-      "id": "tt10365998",
-      "name": "Infinity Pool",
-      "year": "2023",
-      "why": "On a resort island, rich tourists can pay to have a double executed for their crimes, and a struggling writer gets pulled into the game. Brandon Cronenberg makes it a cruel, hypnotic film about identity and impunity."
-    },
-    {
-      "id": "tt2053463",
-      "name": "Side Effects",
-      "year": "2013",
-      "why": "A young woman on a new antidepressant commits a violent act, and her psychiatrist's life comes apart as he digs into what really happened. Soderbergh's cool, precise thriller keeps flipping who is performing for whom."
-    },
-    {
-      "id": "tt1682180",
-      "name": "Stoker",
-      "year": "2013",
-      "why": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
-    },
     {
       "id": "tt0156887",
       "name": "Perfect Blue",
@@ -61,6 +31,36 @@
       "name": "Juror #2",
       "year": "2024",
       "why": "An ordinary man on a murder jury realizes he may be responsible for the death being tried and calmly weighs whether to let someone else pay. A taut moral thriller with a cold, precise finish."
+    },
+    {
+      "id": "tt14129116",
+      "name": "A Talent for Murder",
+      "year": "2026",
+      "why": "A mysterious young man is sent to persuade Patricia Highsmith to write one last Ripley novel. It's a cat-and-mouse game about performance, impostors and fiction leaking into real life."
+    },
+    {
+      "id": "tt1255953",
+      "name": "Incendies",
+      "year": "2011",
+      "why": "Villeneuve's mystery follows twins who trace their dead mother's past through a war-torn country. It tightens steadily toward one of the most devastating final reveals in modern film."
+    },
+    {
+      "id": "tt12477480",
+      "name": "Decision to Leave",
+      "year": "2022",
+      "why": "Park Chan-wook's noir about a detective who falls for the widow he suspects of murder. It is precise and full of misdirection, and the ending stays with you long after it's over."
+    },
+    {
+      "id": "tt0265459",
+      "name": "One Hour Photo",
+      "year": "2002",
+      "why": "Robin Williams plays a lonely photo-lab clerk whose quiet fixation on a family turns menacing. It's a calm, unsettling portrait of an ordinary man sliding toward something monstrous."
+    },
+    {
+      "id": "tt37020296",
+      "name": "Gentle Monster",
+      "year": "2026",
+      "why": "Marie Kreutzer's thriller about a renowned pianist who moves her family to the countryside and uncovers a shattering truth. It's a tense study of deception inside a marriage."
     }
   ],
   "new": [
@@ -127,12 +127,6 @@
   ],
   "dread": [
     {
-      "id": "tt5215952",
-      "name": "The Wailing",
-      "year": "2016",
-      "why": "A bumbling village cop in South Korea investigates a spreading sickness and a mysterious stranger, and his family is soon at stake. It's genuinely frightening, keeps escalating, and is impossible to second-guess."
-    },
-    {
       "id": "tt2400463",
       "name": "The Invitation",
       "year": "2016",
@@ -185,15 +179,15 @@
       "name": "Blow Out",
       "year": "1981",
       "why": "A movie sound man records evidence of a political murder and can't make anyone listen. De Palma at his most controlled, with a gut-punch finale."
+    },
+    {
+      "id": "tt0237572",
+      "name": "The Pledge",
+      "year": "2001",
+      "why": "A retiring detective swears to a grieving mother that he'll catch her child's killer, and the vow consumes him. Sean Penn directs a slow, tightening obsession with a bitterly ironic ending."
     }
   ],
   "deadpan": [
-    {
-      "id": "tt0111149",
-      "name": "Shallow Grave",
-      "year": "1995",
-      "why": "Three smug Edinburgh flatmates find their new lodger dead beside a suitcase of cash, and calmly decide to keep the money and lose the body. Danny Boyle's first film is pitch-black, funny and cruel, with a perfect last turn."
-    },
     {
       "id": "tt0243133",
       "name": "The Man Who Wasn't There",
@@ -247,6 +241,12 @@
       "name": "The Banshees of Inisherin",
       "year": "2022",
       "why": "On a remote Irish island, one man abruptly ends a friendship and backs it up with a horrifying threat that he fully means. The comedy is bleak and deadpan, and the pettiness escalates into self-mutilation and arson."
+    },
+    {
+      "id": "tt0105151",
+      "name": "The Player",
+      "year": "1992",
+      "why": "A studio executive kills a writer he wrongly thinks has been threatening him, and Hollywood barely notices. Altman's satire plays it completely straight, and the ending is perfectly cynical."
     }
   ],
   "deepcuts": [

@@ -1,46 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2866360",
-      "type": "movie",
-      "name": "Coherence",
-      "releaseInfo": "2014",
-      "poster": "https://images.metahub.space/poster/medium/tt2866360/img",
-      "description": "At a dinner party on the night a comet passes, the friends start meeting other versions of themselves, and trust falls apart one door-knock at a time. It's a tight, low-budget puzzle about doubles, and the last twist keeps paying off long after it ends."
-    },
-    {
-      "id": "tt0117381",
-      "type": "movie",
-      "name": "Primal Fear",
-      "releaseInfo": "1996",
-      "poster": "https://images.metahub.space/poster/medium/tt0117381/img",
-      "description": "A slick defense lawyer takes on an altar boy accused of murdering an archbishop, and the case turns on a performance that may or may not be real. It builds steadily to one of the great last-minute reversals."
-    },
-    {
-      "id": "tt10365998",
-      "type": "movie",
-      "name": "Infinity Pool",
-      "releaseInfo": "2023",
-      "poster": "https://images.metahub.space/poster/medium/tt10365998/img",
-      "description": "On a resort island, rich tourists can pay to have a double executed for their crimes, and a struggling writer gets pulled into the game. Brandon Cronenberg makes it a cruel, hypnotic film about identity and impunity."
-    },
-    {
-      "id": "tt2053463",
-      "type": "movie",
-      "name": "Side Effects",
-      "releaseInfo": "2013",
-      "poster": "https://images.metahub.space/poster/medium/tt2053463/img",
-      "description": "A young woman on a new antidepressant commits a violent act, and her psychiatrist's life comes apart as he digs into what really happened. Soderbergh's cool, precise thriller keeps flipping who is performing for whom."
-    },
-    {
-      "id": "tt1682180",
-      "type": "movie",
-      "name": "Stoker",
-      "releaseInfo": "2013",
-      "poster": "https://images.metahub.space/poster/medium/tt1682180/img",
-      "description": "After her father dies, a strange teenager's charming uncle moves in, and she finds out how much they have in common. Park Chan-wook's English-language debut is precise, perverse and beautifully controlled."
-    },
-    {
       "id": "tt0156887",
       "type": "movie",
       "name": "Perfect Blue",
@@ -79,6 +39,46 @@
       "releaseInfo": "2024",
       "poster": "https://images.metahub.space/poster/medium/tt27403986/img",
       "description": "An ordinary man on a murder jury realizes he may be responsible for the death being tried and calmly weighs whether to let someone else pay. A taut moral thriller with a cold, precise finish."
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "name": "A Talent for Murder",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt14129116/img",
+      "description": "A mysterious young man is sent to persuade Patricia Highsmith to write one last Ripley novel. It's a cat-and-mouse game about performance, impostors and fiction leaking into real life."
+    },
+    {
+      "id": "tt1255953",
+      "type": "movie",
+      "name": "Incendies",
+      "releaseInfo": "2011",
+      "poster": "https://images.metahub.space/poster/medium/tt1255953/img",
+      "description": "Villeneuve's mystery follows twins who trace their dead mother's past through a war-torn country. It tightens steadily toward one of the most devastating final reveals in modern film."
+    },
+    {
+      "id": "tt12477480",
+      "type": "movie",
+      "name": "Decision to Leave",
+      "releaseInfo": "2022",
+      "poster": "https://images.metahub.space/poster/medium/tt12477480/img",
+      "description": "Park Chan-wook's noir about a detective who falls for the widow he suspects of murder. It is precise and full of misdirection, and the ending stays with you long after it's over."
+    },
+    {
+      "id": "tt0265459",
+      "type": "movie",
+      "name": "One Hour Photo",
+      "releaseInfo": "2002",
+      "poster": "https://images.metahub.space/poster/medium/tt0265459/img",
+      "description": "Robin Williams plays a lonely photo-lab clerk whose quiet fixation on a family turns menacing. It's a calm, unsettling portrait of an ordinary man sliding toward something monstrous."
+    },
+    {
+      "id": "tt37020296",
+      "type": "movie",
+      "name": "Gentle Monster",
+      "releaseInfo": "2026",
+      "poster": "https://images.metahub.space/poster/medium/tt37020296/img",
+      "description": "Marie Kreutzer's thriller about a renowned pianist who moves her family to the countryside and uncovers a shattering truth. It's a tense study of deception inside a marriage."
     }
   ]
 }
