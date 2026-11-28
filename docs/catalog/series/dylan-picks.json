@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt31036715",
-      "type": "series",
-      "name": "Malice",
-      "releaseInfo": "2025–",
-      "poster": "https://images.metahub.space/poster/medium/tt31036715/img",
-      "description": "A charming young man works his way into a wealthy family's holiday home as a tutor, and his real motive slowly comes into focus. It is a con-man revenge thriller about a performance played for real, with dread that builds toward a reckoning."
-    },
-    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
@@ -63,6 +55,14 @@
       "releaseInfo": "2013–2015",
       "poster": "https://images.metahub.space/poster/medium/tt2243973/img",
       "description": "An FBI profiler and his psychiatrist, secretly a cannibal, are locked in an elegant battle of minds. Stylish, cruel and precise."
+    },
+    {
+      "id": "tt2149175",
+      "type": "series",
+      "name": "The Americans",
+      "releaseInfo": "2013–2018",
+      "poster": "https://images.metahub.space/poster/medium/tt2149175/img",
+      "description": "Two Soviet spies live as an ordinary suburban couple in 1980s Washington, playing their roles so well that the false life and the real one become impossible to separate. Every season raises the stakes, and the series finale is one of television's most devastating."
     }
   ]
 }

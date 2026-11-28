@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "note": "Built by refresh_picks.py from Stremio history and taste.org. Rows: rows.py.",
   "picks": [
     {
@@ -375,12 +375,6 @@
   ],
   "series": [
     {
-      "id": "tt31036715",
-      "name": "Malice",
-      "year": "2025–",
-      "why": "A charming young man works his way into a wealthy family's holiday home as a tutor, and his real motive slowly comes into focus. It is a con-man revenge thriller about a performance played for real, with dread that builds toward a reckoning."
-    },
-    {
       "id": "tt11280740",
       "name": "Severance",
       "year": "2022–",
@@ -421,6 +415,12 @@
       "name": "Hannibal",
       "year": "2013–2015",
       "why": "An FBI profiler and his psychiatrist, secretly a cannibal, are locked in an elegant battle of minds. Stylish, cruel and precise."
+    },
+    {
+      "id": "tt2149175",
+      "name": "The Americans",
+      "year": "2013–2018",
+      "why": "Two Soviet spies live as an ordinary suburban couple in 1980s Washington, playing their roles so well that the false life and the real one become impossible to separate. Every season raises the stakes, and the series finale is one of television's most devastating."
     }
   ]
 }
